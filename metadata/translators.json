@@ -10,11 +10,6 @@
     "translator": "Abdullah Yusuf Ali"
   },
   {
-    "translator_id": 19,
-    "language": "en",
-    "translator": "Mohammed Marmaduke William Pickthall"
-  },
-  {
     "translator_id": 84,
     "language": "en",
     "translator": "Mufti Taqi Usmani"
@@ -25,19 +20,9 @@
     "translator": "Saheeh International"
   },
   {
-    "translator_id": 95,
-    "language": "en",
-    "translator": "Sayyid Abul Ala Maududi"
-  },
-  {
     "translator_id": 57,
     "language": "ar-en",
     "translator": "Verse Transliteration"
-  },
-  {
-    "translator_id": 158,
-    "language": "ur",
-    "translator": "Dr. Israr Ahmad"
   },
   {
     "translator_id": 234,
@@ -65,11 +50,6 @@
     "translator": "Mirwaiz M Yousuf Shah"
   },
   {
-    "translator_id": 302,
-    "language": "ks",
-    "translator": "Tahir ul Qadri"
-  },
-  {
     "translator_id": 400,
     "language": "ks-en",
     "translator": "Athar Manigami"
@@ -78,10 +58,5 @@
     "translator_id": 401,
     "language": "ks-en",
     "translator": "Mirwaiz M Yousuf Shah"
-  },
-  {
-    "translator_id": 402,
-    "language": "ks-en",
-    "translator": "Tahir ul Qadri"
   }
 ]
