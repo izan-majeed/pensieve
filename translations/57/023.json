@@ -1,0 +1,474 @@
+[
+  {
+    "verse_id": 1,
+    "translation": "Qad aflaha almu/minoon"
+  },
+  {
+    "verse_id": 2,
+    "translation": "Allatheena hum fee salatihimkhashiAAoon"
+  },
+  {
+    "verse_id": 3,
+    "translation": "Wallatheena hum AAani allaghwimuAAridoon"
+  },
+  {
+    "verse_id": 4,
+    "translation": "Wallatheena hum lizzakatifaAAiloon"
+  },
+  {
+    "verse_id": 5,
+    "translation": "Wallatheena hum lifuroojihim hafithoon"
+  },
+  {
+    "verse_id": 6,
+    "translation": "Illa AAala azwajihim awma malakat aymanuhum fa-innahum ghayru maloomeen"
+  },
+  {
+    "verse_id": 7,
+    "translation": "Famani ibtagha waraa thalikafaola-ika humu alAAadoon"
+  },
+  {
+    "verse_id": 8,
+    "translation": "Wallatheena hum li-amanatihimwaAAahdihim raAAoon"
+  },
+  {
+    "verse_id": 9,
+    "translation": "Wallatheena hum AAala salawatihimyuhafithoon"
+  },
+  {
+    "verse_id": 10,
+    "translation": "Ola-ika humu alwarithoon"
+  },
+  {
+    "verse_id": 11,
+    "translation": "Allatheena yarithoona alfirdawsa humfeeha khalidoon"
+  },
+  {
+    "verse_id": 12,
+    "translation": "Walaqad khalaqna al-insana minsulalatin min teen"
+  },
+  {
+    "verse_id": 13,
+    "translation": "Thumma jaAAalnahu nutfatan feeqararin makeen"
+  },
+  {
+    "verse_id": 14,
+    "translation": "Thumma khalaqna annutfataAAalaqatan fakhalaqna alAAalaqata mudghatanfakhalaqna almudghata AAithamanfakasawna alAAithama lahmanthumma ansha/nahu khalqan akhara fatabarakaAllahu ahsanu alkhaliqeen"
+  },
+  {
+    "verse_id": 15,
+    "translation": "Thumma innakum baAAda thalikalamayyitoon"
+  },
+  {
+    "verse_id": 16,
+    "translation": "Thumma innakum yawma alqiyamatitubAAathoon"
+  },
+  {
+    "verse_id": 17,
+    "translation": "Walaqad khalaqna fawqakum sabAAa tara-iqawama kunna AAani alkhalqi ghafileen"
+  },
+  {
+    "verse_id": 18,
+    "translation": "Waanzalna mina assama-imaan biqadarin faaskannahu fee al-ardiwa-inna AAala thahabin bihi laqadiroon"
+  },
+  {
+    "verse_id": 19,
+    "translation": "Faansha/na lakum bihi jannatinmin nakheelin waaAAnabin lakum feeha fawakihukatheeratun waminha ta/kuloon"
+  },
+  {
+    "verse_id": 20,
+    "translation": "Washajaratan takhruju min toori saynaatanbutu bidduhni wasibghin lilakileen"
+  },
+  {
+    "verse_id": 21,
+    "translation": "Wa-inna lakum fee al-anAAamilaAAibratan nusqeekum mimma fee butoonihawalakum feeha manafiAAu katheeratun waminhata/kuloon"
+  },
+  {
+    "verse_id": 22,
+    "translation": "WaAAalayha waAAala alfulki tuhmaloon"
+  },
+  {
+    "verse_id": 23,
+    "translation": "Walaqad arsalna noohan ilaqawmihi faqala ya qawmi oAAbudoo Allaha malakum min ilahin ghayruhu afala tattaqoon"
+  },
+  {
+    "verse_id": 24,
+    "translation": "Faqala almalao allatheenakafaroo min qawmihi ma hatha illa basharunmithlukum yureedu an yatafaddala AAalaykum walaw shaaAllahu laanzala mala-ikatan ma samiAAnabihatha fee aba-ina al-awwaleen"
+  },
+  {
+    "verse_id": 25,
+    "translation": "In huwa illa rajulun bihi jinnatunfatarabbasoo bihi hatta heen"
+  },
+  {
+    "verse_id": 26,
+    "translation": "Qala rabbi onsurnee bimakaththaboon"
+  },
+  {
+    "verse_id": 27,
+    "translation": "Faawhayna ilayhi ani isnaAAialfulka bi-aAAyunina wawahyina fa-ithajaa amruna wafara attannooru faslukfeeha min kullin zawjayni ithnayni waahlaka illaman sabaqa AAalayhi alqawlu minhum wala tukhatibneefee allatheena thalamoo innahum mughraqoon"
+  },
+  {
+    "verse_id": 28,
+    "translation": "Fa-itha istawayta anta waman maAAakaAAala alfulki faquli alhamdu lillahi allatheenajjana mina alqawmi aththalimeen"
+  },
+  {
+    "verse_id": 29,
+    "translation": "Waqul rabbi anzilnee munzalan mubarakanwaanta khayru almunzileen"
+  },
+  {
+    "verse_id": 30,
+    "translation": "Inna fee thalika laayatinwa-in kunna lamubtaleen"
+  },
+  {
+    "verse_id": 31,
+    "translation": "Thumma ansha/na min baAAdihim qarnan akhareen"
+  },
+  {
+    "verse_id": 32,
+    "translation": "Faarsalna feehim rasoolan minhum anioAAbudoo Allaha ma lakum min ilahin ghayruhuafala tattaqoon"
+  },
+  {
+    "verse_id": 33,
+    "translation": "Waqala almalao min qawmihi allatheenakafaroo wakaththaboo biliqa-i al-akhiratiwaatrafnahum fee alhayati addunyama hatha illa basharun mithlukum ya/kulumimma ta/kuloona minhu wayashrabu mimma tashraboon"
+  },
+  {
+    "verse_id": 34,
+    "translation": "Wala-in ataAAtum basharan mithlakuminnakum ithan lakhasiroon"
+  },
+  {
+    "verse_id": 35,
+    "translation": "AyaAAidukum annakum itha mittumwakuntum turaban waAAithaman annakummukhrajoon"
+  },
+  {
+    "verse_id": 36,
+    "translation": "Hayhata hayhata limatooAAadoon"
+  },
+  {
+    "verse_id": 37,
+    "translation": "In hiya illa hayatunaaddunya namootu wanahya wamanahnu bimabAAootheen"
+  },
+  {
+    "verse_id": 38,
+    "translation": "In huwa illa rajulun iftaraAAala Allahi kathiban wama nahnulahu bimu/mineen"
+  },
+  {
+    "verse_id": 39,
+    "translation": "Qala rabbi onsurnee bimakaththaboon"
+  },
+  {
+    "verse_id": 40,
+    "translation": "Qala AAamma qaleelin layusbihunnanadimeen"
+  },
+  {
+    "verse_id": 41,
+    "translation": "Faakhathat-humu assayhatubilhaqqi fajaAAalnahum ghuthaanfabuAAdan lilqawmi aththalimeen"
+  },
+  {
+    "verse_id": 42,
+    "translation": "Thumma ansha/na min baAAdihimquroonan akhareen"
+  },
+  {
+    "verse_id": 43,
+    "translation": "Ma tasbiqu min ommatin ajalahawama yasta/khiroon"
+  },
+  {
+    "verse_id": 44,
+    "translation": "Thumma arsalna rusulana tatrakulla ma jaa ommatan rasooluha kaththaboohufaatbaAAna baAAdahum baAAdan wajaAAalnahumahadeetha fabuAAdan liqawmin la yu/minoon"
+  },
+  {
+    "verse_id": 45,
+    "translation": "Thumma arsalna moosa waakhahuharoona bi-ayatina wasultaninmubeen"
+  },
+  {
+    "verse_id": 46,
+    "translation": "Ila firAAawna wamala-ihi fastakbaroowakanoo qawman AAaleen"
+  },
+  {
+    "verse_id": 47,
+    "translation": "Faqaloo anu/minu libasharayni mithlinawaqawmuhuma lana AAabidoon"
+  },
+  {
+    "verse_id": 48,
+    "translation": "Fakaththaboohuma fakanoomina almuhlakeen"
+  },
+  {
+    "verse_id": 49,
+    "translation": "Walaqad atayna moosaalkitaba laAAallahum yahtadoon"
+  },
+  {
+    "verse_id": 50,
+    "translation": "WajaAAalna ibna maryama waommahu ayatanwaawaynahuma ila rabwatin thatiqararin wamaAAeen"
+  },
+  {
+    "verse_id": 51,
+    "translation": "Ya ayyuha arrusulukuloo mina attayyibati waAAmaloo salihaninnee bima taAAmaloona AAaleem"
+  },
+  {
+    "verse_id": 52,
+    "translation": "Wa-inna hathihi ommatukum ommatan wahidatanwaana rabbukum fattaqoon"
+  },
+  {
+    "verse_id": 53,
+    "translation": "FataqattaAAoo amrahum baynahumzuburan kullu hizbin bima ladayhim farihoon"
+  },
+  {
+    "verse_id": 54,
+    "translation": "Fatharhum fee ghamratihim hattaheen"
+  },
+  {
+    "verse_id": 55,
+    "translation": "Ayahsaboona annama numidduhumbihi min malin wabaneen"
+  },
+  {
+    "verse_id": 56,
+    "translation": "NusariAAu lahum fee alkhayratibal la yashAAuroon"
+  },
+  {
+    "verse_id": 57,
+    "translation": "Inna allatheena hum min khashyatirabbihim mushfiqoon"
+  },
+  {
+    "verse_id": 58,
+    "translation": "Wallatheena hum bi-ayatirabbihim yu/minoon"
+  },
+  {
+    "verse_id": 59,
+    "translation": "Wallatheena hum birabbihim layushrikoon"
+  },
+  {
+    "verse_id": 60,
+    "translation": "Wallatheena yu/toona maataw waquloobuhum wajilatun annahum ila rabbihim rajiAAoon"
+  },
+  {
+    "verse_id": 61,
+    "translation": "Ola-ika yusariAAoona feealkhayrati wahum laha sabiqoon"
+  },
+  {
+    "verse_id": 62,
+    "translation": "Wala nukallifu nafsan illawusAAaha waladayna kitabun yantiqu bilhaqqiwahum la yuthlamoon"
+  },
+  {
+    "verse_id": 63,
+    "translation": "Bal quloobuhum fee ghamratin min hathawalahum aAAmalun min dooni thalika hum lahaAAamiloon"
+  },
+  {
+    "verse_id": 64,
+    "translation": "Hatta itha akhathnamutrafeehim bilAAathabi itha hum yaj-aroon"
+  },
+  {
+    "verse_id": 65,
+    "translation": "La taj-aroo alyawma innakum minnala tunsaroon"
+  },
+  {
+    "verse_id": 66,
+    "translation": "Qad kanat ayatee tutlaAAalaykum fakuntum AAala aAAqabikum tankisoon"
+  },
+  {
+    "verse_id": 67,
+    "translation": "Mustakbireena bihi samiran tahjuroon"
+  },
+  {
+    "verse_id": 68,
+    "translation": "Afalam yaddabbaroo alqawla am jaahumma lam ya/ti abaahumu al-awwaleen"
+  },
+  {
+    "verse_id": 69,
+    "translation": "Am lam yaAArifoo rasoolahum fahum lahumunkiroon"
+  },
+  {
+    "verse_id": 70,
+    "translation": "Am yaqooloona bihi jinnatun bal jaahumbilhaqqi waaktharuhum lilhaqqi karihoon"
+  },
+  {
+    "verse_id": 71,
+    "translation": "Walawi ittabaAAa alhaqqu ahwaahumlafasadati assamawatu wal-arduwaman feehinna bal ataynahum bithikrihim fahum AAanthikrihim muAAridoon"
+  },
+  {
+    "verse_id": 72,
+    "translation": "Am tas-aluhum kharjan fakharajurabbika khayrun wahuwa khayru arraziqeen"
+  },
+  {
+    "verse_id": 73,
+    "translation": "Wa-innaka latadAAoohum ila siratinmustaqeem"
+  },
+  {
+    "verse_id": 74,
+    "translation": "Wa-inna allatheena layu/minoona bil-akhirati AAani assiratilanakiboon"
+  },
+  {
+    "verse_id": 75,
+    "translation": "Walaw rahimnahum wakashafnama bihim min durrin lalajjoo fee tughyanihimyaAAmahoon"
+  },
+  {
+    "verse_id": 76,
+    "translation": "Walaqad akhathnahum bilAAathabifama istakanoo lirabbihim wama yatadarraAAoon"
+  },
+  {
+    "verse_id": 77,
+    "translation": "Hatta itha fatahnaAAalayhim baban tha AAathabin shadeedin ithahum feehi mublisoon"
+  },
+  {
+    "verse_id": 78,
+    "translation": "Wahuwa allathee anshaa lakumu assamAAawal-absara wal-af-idata qaleelan matashkuroon"
+  },
+  {
+    "verse_id": 79,
+    "translation": "Wahuwa allathee tharaakum feeal-ardi wa-ilayhi tuhsharoon"
+  },
+  {
+    "verse_id": 80,
+    "translation": "Wahuwa allathee yuhyeewayumeetu walahu ikhtilafu allayli wannahariafala taAAqiloon"
+  },
+  {
+    "verse_id": 81,
+    "translation": "Bal qaloo mithla ma qalaal-awwaloon"
+  },
+  {
+    "verse_id": 82,
+    "translation": "Qaloo a-itha mitnawakunna turaban waAAithamana-inna lamabAAoothoon"
+  },
+  {
+    "verse_id": 83,
+    "translation": "Laqad wuAAidna nahnu waabaonahatha min qablu in hatha illa asateerual-awwaleen"
+  },
+  {
+    "verse_id": 84,
+    "translation": "Qul limani al-ardu waman feehain kuntum taAAlamoon"
+  },
+  {
+    "verse_id": 85,
+    "translation": "Sayaqooloona lillahi qul afalatathakkaroon"
+  },
+  {
+    "verse_id": 86,
+    "translation": "Qul man rabbu assamawatiassabAAi warabbu alAAarshi alAAatheem"
+  },
+  {
+    "verse_id": 87,
+    "translation": "Sayaqooloona lillahi qul afalatattaqoon"
+  },
+  {
+    "verse_id": 88,
+    "translation": "Qul man biyadihi malakootu kulli shay-inwahuwa yujeeru wala yujaru AAalayhi in kuntumtaAAlamoon"
+  },
+  {
+    "verse_id": 89,
+    "translation": "Sayaqooloona lillahi qul faannatusharoon"
+  },
+  {
+    "verse_id": 90,
+    "translation": "Bal ataynahum bilhaqqiwa-innahum lakathiboon"
+  },
+  {
+    "verse_id": 91,
+    "translation": "Ma ittakhatha Allahumin waladin wama kana maAAahu min ilahin ithanlathahaba kullu ilahin bima khalaqa walaAAalabaAAduhum AAala baAAdin subhana AllahiAAamma yasifoon"
+  },
+  {
+    "verse_id": 92,
+    "translation": "AAalimi alghaybi washshahadatifataAAala AAamma yushrikoon"
+  },
+  {
+    "verse_id": 93,
+    "translation": "Qul rabbi imma turiyannee mayooAAadoon"
+  },
+  {
+    "verse_id": 94,
+    "translation": "Rabbi fala tajAAalnee fee alqawmi aththalimeen"
+  },
+  {
+    "verse_id": 95,
+    "translation": "Wa-inna AAala an nuriyaka manaAAiduhum laqadiroon"
+  },
+  {
+    "verse_id": 96,
+    "translation": "IdfaAA billatee hiya ahsanu assayyi-atanahnu aAAlamu bima yasifoon"
+  },
+  {
+    "verse_id": 97,
+    "translation": "Waqul rabbi aAAoothu bika min hamazatiashshayateen"
+  },
+  {
+    "verse_id": 98,
+    "translation": "WaaAAoothu bika rabbi an yahduroon"
+  },
+  {
+    "verse_id": 99,
+    "translation": "Hatta itha jaa ahadahumualmawtu qala rabbi irjiAAoon"
+  },
+  {
+    "verse_id": 100,
+    "translation": "LaAAallee aAAmalu salihanfeema taraktu kalla innaha kalimatun huwa qa-iluhawamin wara-ihim barzakhun ila yawmi yubAAathoon"
+  },
+  {
+    "verse_id": 101,
+    "translation": "Fa-itha nufikha fee assoorifala ansaba baynahum yawma-ithin walayatasaaloon"
+  },
+  {
+    "verse_id": 102,
+    "translation": "Faman thaqulat mawazeenuhu faola-ikahumu almuflihoon"
+  },
+  {
+    "verse_id": 103,
+    "translation": "Waman khaffat mawazeenuhu faola-ikaallatheena khasiroo anfusahum fee jahannama khalidoon"
+  },
+  {
+    "verse_id": 104,
+    "translation": "Talfahu wujoohahumu annaruwahum feeha kalihoon"
+  },
+  {
+    "verse_id": 105,
+    "translation": "Alam takun ayatee tutlaAAalaykum fakuntum biha tukaththiboon"
+  },
+  {
+    "verse_id": 106,
+    "translation": "Qaloo rabbana ghalabatAAalayna shiqwatuna wakunna qawman dalleen"
+  },
+  {
+    "verse_id": 107,
+    "translation": "Rabbana akhrijna minhafa-in AAudna fa-inna thalimoon"
+  },
+  {
+    "verse_id": 108,
+    "translation": "Qala ikhsaoo feeha walatukallimoon"
+  },
+  {
+    "verse_id": 109,
+    "translation": "Innahu kana fareequn min AAibadeeyaqooloona rabbana amanna faghfirlana warhamna waanta khayru arrahimeen"
+  },
+  {
+    "verse_id": 110,
+    "translation": "Fattakhathtumoohumsikhriyyan hatta ansawkum thikree wakuntumminhum tadhakoon"
+  },
+  {
+    "verse_id": 111,
+    "translation": "Innee jazaytuhumu alyawma bima sabarooannahum humu alfa-izoon"
+  },
+  {
+    "verse_id": 112,
+    "translation": "Qala kam labithtum fee al-ardiAAadada sineen"
+  },
+  {
+    "verse_id": 113,
+    "translation": "Qaloo labithna yawman aw baAAdayawmin fas-ali alAAaddeen"
+  },
+  {
+    "verse_id": 114,
+    "translation": "Qala in labithtum illaqaleelan law annakum kuntum taAAlamoon"
+  },
+  {
+    "verse_id": 115,
+    "translation": "Afahasibtum annama khalaqnakumAAabathan waannakum ilayna la turjaAAoon"
+  },
+  {
+    "verse_id": 116,
+    "translation": "FataAAala Allahualmaliku alhaqqu la ilaha illa huwarabbu alAAarshi alkareem"
+  },
+  {
+    "verse_id": 117,
+    "translation": "Waman yadAAu maAAa Allahi ilahanakhara la burhana lahu bihi fa-innamahisabuhu AAinda rabbihi innahu la yuflihualkafiroon"
+  },
+  {
+    "verse_id": 118,
+    "translation": "Waqul rabbi ighfir warhamwaanta khayru arrahimeen"
+  }
+]

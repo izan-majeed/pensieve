@@ -1,0 +1,910 @@
+[
+  {
+    "verse_id": 1,
+    "translation": "Yim chhi ḥrvf mqṭʿāt yimn hund mʿny zanhi panh khda."
+  },
+  {
+    "verse_id": 2,
+    "translation": "Yim mẓamyn yim tohyhi petth nạzl spdan chhi, yim chhi āyat tamhi ktabhi hndụ̄ yosh svrue nnhi ravvunụ̄ chhe, pvz kya chhu, aapuz kya chhu. Tim lvukh yim pczh chhinh kran, math kritn, tvhụ̄ kyazi chhiv yvut ghmgyn gczhan."
+  },
+  {
+    "verse_id": 3,
+    "translation": "Shayd tvhụ̄ ma trạviyvun hrith panun pan yymhi ghmh sintụ̄ kh kvnh chhi ayman anan yth qrān mjyds, tvhụ̄ mah ḥẓ khyyiv aamuyk ghm."
+  },
+  {
+    "verse_id": 4,
+    "translation": "Hrgah asụ̄ yczhv tim krvkh jbraan mslman, yithh pạtthụ̄ kh asụ̄ svzv timn petth āsman kh ṭrfh aakh nshanah yymhi sintụ̄ timn akhtyare slb sapdi. Tihnz grdnh namn bon kun, charh lgykh nh kynhh thi ayman aannh vrạe, mgr asụ̄ krv nh thi, kyazi thi krnh sintụ̄ chhunh āzmạysh th amtḥan baqy rvzan mgr timn hnz ḥalt chhe kh."
+  },
+  {
+    "verse_id": 5,
+    "translation": "Chhanh vatan timn nishhi ḥẓrt rḥman sndi ṭrfh kanhh nṣyḥtah v vʿẓah nvv th tazh mgr tim chhi tamhi nishhi buth phiran."
+  },
+  {
+    "verse_id": 6,
+    "translation": "Chnanchh yvt petth vạcz nvbt kh yimav vvn kh qrān mjyd chhu aapuz yus aʿraẓuk hyryum drjh chhu. Aath kun nẓr krith vvnukh yhi chhu aapuz, aamhi ʿlavh krikh aath qrān mjyds tthtthh. Vonụ̄ vathi timn nishhi khbr tamhi ḥqyqtch yth yim tthtthh kran ạsụ̄ yylhi ʿdhabs grftar gczhn."
+  },
+  {
+    "verse_id": 7,
+    "translation": "Kya yimav vuchhna yth zmyns kun kh kạtyah rtyn rtyn kuāyn hndụ̄ qsm khạrụ̄ aashi aamhi zmynh mnz."
+  },
+  {
+    "verse_id": 8,
+    "translation": "Be shk chhi ath mnz sanhi qdrtkụ̄ nshanh, mgr yimav andrh chhi akthr yim nh pczhe kran chhi."
+  },
+  {
+    "verse_id": 9,
+    "translation": "Pzipạtthụ̄ tuhund prvrdgar chhu setthah ghạlb setthah rḥmt vvl."
+  },
+  {
+    "verse_id": 10,
+    "translation": "Yimn lvukn frmạviv tamhi vqtuk qṣh yuth tim ʿbrt rattn yylhi ālv duyt tuhndụ̄ prvrdgarn mvsyā klym Allah hs kh tblygh krnhi gczihv nafrman qvms."
+  },
+  {
+    "verse_id": 11,
+    "translation": "Yʿny frʿūn sndis qvms, kya khoczan chhina tim sạnis qhrs th ghẓbs, kya pth rvzn na tim sanhi nafrmạny nishhi."
+  },
+  {
+    "verse_id": 12,
+    "translation": "Ḥẓrt mvsyā hn dvp khdaya bh chhus gczhnh khạṭr tyar mgr byym chhum tim ma zann me aapziyvr."
+  },
+  {
+    "verse_id": 13,
+    "translation": "Yymhi sintụ̄ spdi tng dl myvn, me phvri nh zyvi kihinụ̄, ps svzkhna czh vḥy myạnis bradr harvns. Suthi krhn pyghmbr, tvpth pkhi ha suthi me sintụ̄, hrgah tim aapziyvr zanhn suh kriha me tṣdyq."
+  },
+  {
+    "verse_id": 14,
+    "translation": "Byyhi chhu me byakh ʿrẓ kh me petth chhu tihund aakh jurmah, me chhu khṭr gczhan tamhi mokh ma marn tim me."
+  },
+  {
+    "verse_id": 15,
+    "translation": "Allah tʿālyā hn frmvvus thi bnhi nh hrgz, cze hyky nh aathh lạgith kanhh, aashi kr ʿṭa harvn ʿlyh alslams pyghmbry. Ps gczihv tvhụ̄ doshve myạnụ̄ āyat hyth, asụ̄ thi chhi nṣrt v amdad krnh khạṭr tohyhi sintụ̄ bvzan tihund gftgv."
+  },
+  {
+    "verse_id": 16,
+    "translation": "Ps vạtiv tvhụ̄ doshve frʿūns nishhi, tvpth dpyvus asụ̄ doshve chhi cze kun pyghmbr prvrdgar ʿālmyn sndi ṭrfh dʿūti tvḥyds sintụ̄ yhi ḥkm hyth āmtụ̄ kh."
+  },
+  {
+    "verse_id": 17,
+    "translation": "Āzad krukh czh bny asrạyl ẓlmh nishhi byhi di czh timn aṣly vṭn shams kun aashi sintụ̄ gczhnh. Tim doshve ge frʿūns nishhi, ts vatnvvukh yhi pygham. Frʿūnn bvzh yimh sare kthh, tvpth vvth mvsyā ʿlyh alslams kun,avh hv, tvhụ̄ chhiv ḥẓ āmtụ̄."
+  },
+  {
+    "verse_id": 18,
+    "translation": "Frʿūnn dvupus, czh ma chhukh sue yas aashi zyvunhi panh petthh prvrsh krmcz chhe, byyhi rvudukh czh aashi nishhi pnnhi ʿmri hndyn varyahn vriyn."
+  },
+  {
+    "verse_id": 19,
+    "translation": "Byyhi kvruth cze suh jrm yus cze kvruth )yʿny aakh qbṭy, sanhi qvmuk aakh shkhṣ mvrthn( byyhi chhukh czh tvpth thi kfrani nʿmt krvunyv andrh, sạnụ̄ aḥsanat chhy nh yade, byyhi chhukh aaz āmut me panun tạbʿ bnavnh khạṭr."
+  },
+  {
+    "verse_id": 20,
+    "translation": "Mvsyā ʿlyh alslamn dvpns vaqʿī me kr so ḥrkt, me gyhi so ghlṭy, ʿmdaan kvr nh me suh shkhṣ qtl blkh kryvv me ts tihnzi ghlṭy petth tnbyh mgr suh mvud tamy sintụ̄, qṣdaan mvr nh me suh."
+  },
+  {
+    "verse_id": 21,
+    "translation": "Tvpth yylhi bh tohyhi khvczus bh czvlus tohyhi nishhi. Ps kr me ʿṭa pnnụ̄ prvrdgarn ʿql, ʿlm th dạnshmndy, byyhi kvrns bh pyghmbrv andrh."
+  },
+  {
+    "verse_id": 22,
+    "translation": "Kya yhi kanhh nʿmthah yymuyk czh me petth aḥsan chhukh thavan kh myvn qvm bny asrạyyl bnvvthn cze panun ghlam. Tim thạvithkh cze bddis dhlts th ẓlms andr, tihndyn lokttyn avsukh maran, tmy mokhh trvvhs bh ṣndvqs mnz dryavs andr. Cze brvuntthụ̄ kinụ̄ yylhi bh pvkus cze khvlths bh, tvpth krthm prvrsh. Aamhi prvrshhi huns aṣly vjh chhu chvn ẓlm. Aamhi prvrshhi hund kya chhukh czh me petth aḥsan thavan, blkh pzihy cze pnnyn nashạysth ḥrkatn th ychh kamyn petth nạdm th pshyman spdun, chhayhi khbr kạtyah lokttụ̄ mạrithkh cze, kvtah khvni naḥq kvruth cze."
+  },
+  {
+    "verse_id": 23,
+    "translation": "Kth ddạlith vvn frʿūnn, suh rb alʿālmyn kus gvv yymụ̄ sndi ṭrfh tvhụ̄ svznh āmtụ̄ chhiv?"
+  },
+  {
+    "verse_id": 24,
+    "translation": "Mvsyā ʿlyh alslamn dvpus, suh gvv āsmann th zmynn byyhi tamhi sarikue prvrdgar yhi timn mnzbag chhu, hrgah tohyhi yqyn krun chhuv tylhi chhuv yhi kạfy pth rb alʿālmyn sund."
+  },
+  {
+    "verse_id": 25,
+    "translation": "Frʿūn lvg vannhi timn lvukn yim ts andụ̄ pkụ̄ ạsụ̄ bihith, chhivh bvzan yhi shkhṣ kya chhu myanhi svaluk jvab vnan, myvn sval chhu kya tanụ̄, jvab chhu kya tanụ̄."
+  },
+  {
+    "verse_id": 26,
+    "translation": "Mvsyā ʿlyh alslamn dvpus, suh chhu tuhund th byyhi tuhndyn malyn buddi bbn hundprvrdgar."
+  },
+  {
+    "verse_id": 27,
+    "translation": "Frʿūn lvg dapnhi pnnyn ḥạshyhi nshynn kun ṭʿnh divan kh yhi pyghmbr yus tohyhi kun svznh chhu āmut, yhi chhu pzipạtthụ̄ mvt th dyvanh."
+  },
+  {
+    "verse_id": 28,
+    "translation": "Mvsyā ʿlyh alslamn dvpus, suh chhu mshrq v mghrbuk byyhi tamhi sarikue yhi tth drmyan chhu prvrdgar. Hrgah tvhyhi ʿql chhae, tmy ʿqlhi sintụ̄ mạniv yhi kth."
+  },
+  {
+    "verse_id": 29,
+    "translation": "Frʿūn vvth mvsyā ʿlyh alslams kun, hrgah czh me vrạe byakh mʿbvdah tthhravhn tylhi svzth bh czh qạd khans andr, tmụ̄ sund qạd khanh avs setthah mshkl, zmyns mnz avs aakh srvn chhah, tth mnz ạsụ̄ divan brith qindis, tathi avs suh mrith kharnh yivan."
+  },
+  {
+    "verse_id": 30,
+    "translation": "Mvsyā ʿlyh alslamn dvpus, hrgah bh pnnis nbvts petth nnụ̄ dlyl pysh krh, tvthi thavkhh czh me qạd khans mnz."
+  },
+  {
+    "verse_id": 31,
+    "translation": "Frʿūnn dvpukh hrgah tvhụ̄ pvz vavh vunyv andrh chhiv, kriv tylhi dlyl pysh."
+  },
+  {
+    "verse_id": 32,
+    "translation": "Aty trạvkh pnnụ̄ lvrihn pthr, ykdm sapud tth var kar bvdd aczdha."
+  },
+  {
+    "verse_id": 33,
+    "translation": "Byyhi kvddukh nalh mnzh panun aathh, aty āv suh bvznh sarine vuchhhi vunyn naph naph krvun, lvukh thare th czlụ̄."
+  },
+  {
+    "verse_id": 34,
+    "translation": "Frʿūn lvg vannhi pnnyn ḥạshyh janshynn, ahli drbarn, be shk yhi chhu ẓrvr setthah mạhr sạḥr."
+  },
+  {
+    "verse_id": 35,
+    "translation": "Amụ̄ sund airadh chhu kh tohyhi krryv pnnhi vṭnh mnz, ps kya chhu tuhund mshvrh."
+  },
+  {
+    "verse_id": 36,
+    "translation": "Timav dvphs, mhlt di czh amis yʿny mvsyā ʿlyh alslams byyhi amụ̄ sndis bạyis. Yihinds marns ya qạd krns mnzmah kr czh jldy. Cz svzun pnnyn mmlkt kyn mkhtlf shhrn kun aakh jmaʿthah yim sạḥrn th jadv grn sombrn th jmʿ krn."
+  },
+  {
+    "verse_id": 37,
+    "translation": "Tim vatnạvin cze n,shhi sạry mmlktkụ̄ sạḥr th jadv gr."
+  },
+  {
+    "verse_id": 38,
+    "translation": "Tvpth āe sombrnh sạry jadv gr tamhi doh kis vqts petth yus mqrr avs krnh āmut, suh gvv kajuk vqt, 10 mḥrm rvzi ʿāshvrh yus timn yvm alzynth, ʿīd hund doh avs."
+  },
+  {
+    "verse_id": 39,
+    "translation": "Byyhi āv vannh mṣrkyn lvukn frʿūn sndi ṭrfh, kya tvhụ̄ thi sapdiva jmʿ aath mjms sintụ̄."
+  },
+  {
+    "verse_id": 40,
+    "translation": "Yuth asụ̄ fạṣlh krith jadvgrn hnzpạrvy krv, hrgah time ghạlb spdụ̄."
+  },
+  {
+    "verse_id": 41,
+    "translation": "Adh yylhi sạḥr āe tim lgụ̄ vannhi frʿūns. Kya aashi mylya ẓrvr mvzvurụ̄ th anʿām hrgah asụ̄ ghạlb spdv."
+  },
+  {
+    "verse_id": 42,
+    "translation": "Frʿūnn dvpukh aakh mvzuvurụ̄, byyhi spdiv tvhụ̄ myanyv muqrbv andrh."
+  },
+  {
+    "verse_id": 43,
+    "translation": "Ḥẓrt mvsyā hn dvp timn sạḥrn, trạviv kya chhuv tohyhi travun."
+  },
+  {
+    "verse_id": 44,
+    "translation": "Tvpth travi timav pnnhi razh th pnnhi lvri, yimh jadi kh athr sintụ̄ sruph hy mʿlvm spdan āsh, byyhi lgụ̄ dpnhi frʿūn sndi aqbaluk chhum qsm kh asy chhi zvrs mnz, ftḥ āshi sạny."
+  },
+  {
+    "verse_id": 45,
+    "translation": "Tvpth trvv mvsyā ʿlyh alslamn panun ʿṣa bh ḥkmi khda, aty hyvt tmụ̄ travan travạny nynglavun thi svrue yhi timav tyar kvrmut avs."
+  },
+  {
+    "verse_id": 46,
+    "translation": "Yhi vuchhith pye jadvgr vsith sjdh kis ḥals andr."
+  },
+  {
+    "verse_id": 47,
+    "translation": "Dapnhi lgụ̄ aashi kr pczh rbu alʿālmyns. Frʿūnn dvpuk yhi chhuvh tvhụ̄ myvnue vnan,timav dvpus."
+  },
+  {
+    "verse_id": 48,
+    "translation": "Ḥẓrt mvsyā th ḥẓrt harvn sndis prvrdgars."
+  },
+  {
+    "verse_id": 49,
+    "translation": "Frʿūnn dvpukh tohyhi chhavh pczh krmcz ḥẓrt mvsyā hs myanhi ḥkm dinh brvntthue, pzipạtthụ̄ yhi chhu tuhund bvdd sạḥr, yymụ̄ tvhụ̄ thi hychhnạvi mtụ̄ chhinav siḥr. Vonụ̄ spdi tohyhi mʿlvm tohyhi kya bnyv. Bh czatthi tuhndụ̄ aathh th khor phirith yʿny dchhun aathh th khvfur khor, byyhi dimav tvhụ̄ sạry phahhi."
+  },
+  {
+    "verse_id": 50,
+    "translation": "Timav sạḥrv dvpus, aashi chhunh tth andr kanhh nqṣan th ẓryr. Asụ̄ chhi be shk pnnis prvrdgars nishhi vath vunụ̄."
+  },
+  {
+    "verse_id": 51,
+    "translation": "Asụ̄ chhi yqynaan amyd thavan kh aashi kri mghfrt prvrdgar svn sanyn sarine gnahn, kyazi asụ̄ chhi goddniky pczh krvunụ̄ tas mʿbvdi brḥqs frʿūn sndi jmaʿth mnz."
+  },
+  {
+    "verse_id": 52,
+    "translation": "Tvpth svuz aashi ḥkm mvsyā ʿlyh alslams kh niyiriv rat kiyut myạnụ̄ bndh hyth yʿny bny asrạyyl, pzipạtthụ̄ tohyhi yiyhi pth dvrnh."
+  },
+  {
+    "verse_id": 53,
+    "translation": "Tvpth svuz frʿūnn gamn th shhrn kinụ̄ aakh jmaʿthah lvukh sombrnh khạṭr th time fvjs mnz bhrty krnh khạṭr, dpan avsukh."
+  },
+  {
+    "verse_id": 54,
+    "translation": "Yhi mvsyā ʿlyh alslam snz jmaʿt chhe sanyn lvukn nsbt setthah km jmaʿthah,"
+  },
+  {
+    "verse_id": 55,
+    "translation": "Time chhi aashi tng kran czkh kharan."
+  },
+  {
+    "verse_id": 56,
+    "translation": "Byyhi chhi asụ̄ sạry silḥ samanh pạrith aakh fvjah, Allah tʿālyā frmavan."
+  },
+  {
+    "verse_id": 57,
+    "translation": "Ps krrụ̄ aashi tim yʿny frʿūn th tmụ̄ snz lshkr kamav kamv baghv th nag radav mnz."
+  },
+  {
+    "verse_id": 58,
+    "translation": "Byyhi kamav kmv khzanv mnz, byyhi nfs nfs laryv jayav andr."
+  },
+  {
+    "verse_id": 59,
+    "translation": "Aakh gvv yhi, byyhi bnạvụ̄ timn lryn jayn th baghn hndụ̄ mạlk bny asrayyl."
+  },
+  {
+    "verse_id": 60,
+    "translation": "Chnanchh frʿūn th tmụ̄ snz jmaʿt th lshkr dvre timn pth, tvpth vạtụ̄ timn nishhi āftab khsnh kh vqth."
+  },
+  {
+    "verse_id": 61,
+    "translation": "Tvpth yylhi doshvunụ̄ jmạʿthn aakh akis petth nẓr pyyhi, dapnhi lgụ̄ mvsyā ʿlyh alslam sndụ̄ lvukh, asụ̄ āe tihindis aaths andr,vonụ̄ kya banhi."
+  },
+  {
+    "verse_id": 62,
+    "translation": "Mvsyā ʿlyh alslamn dvpukh, thi banhi nh hrgz kunhi ṣvrts andr, aashi hykn nh tim hrgz rttith, pzipạtthụ̄ me sintụ̄ chhu myvn prvrdgar, suh havi me aamhi dryavh andr nyrnch vath."
+  },
+  {
+    "verse_id": 63,
+    "translation": "Ps svuz aashi ḥkm mvsyā ʿlyh alslams kh tvhụ̄ lạyiv lvri sintụ̄ dryav kis ābs czndd, aty lạe timav czndd dryavs. Aty sapdụ̄ dryavs bah ḥṣh, prth ḥṣah avs bvdd bvdd kohah hyvu."
+  },
+  {
+    "verse_id": 64,
+    "translation": "Tvpth vatnạv aashi nkhh tvt the byakh jmaʿt yʿny frʿūn th tihnz lshkr."
+  },
+  {
+    "verse_id": 65,
+    "translation": "Byyhi duyt aashi njat mvsyā ʿlyh alslams byyhi yim timn sintụ̄ ạsụ̄ timn sarine."
+  },
+  {
+    "verse_id": 66,
+    "translation": "Tvpth phattv aashi dvyum jmaʿt yʿny frʿūn th tihnz lshkr."
+  },
+  {
+    "verse_id": 67,
+    "translation": "Pzipạtthụ̄ aath mnz chhu khdae sndi qdrtuk bvdd nshanh kithh pạtthụ̄ gvv ghrq frʿūn th tihnz jmaʿt. Ạsụ̄ nh timav mnz zyadh baayman."
+  },
+  {
+    "verse_id": 68,
+    "translation": "Be bshk tuhund prvrdgar chhu setthah rḥmt vvl, setthah ghạlb. Grftar chhunh kran mgr pnnụ̄ dlyl th ḥujt pvur krith."
+  },
+  {
+    "verse_id": 69,
+    "translation": "Byyhi bvznạviyvukh ḥẓ yim kạfr ḥẓrt abrhym sund qṣh."
+  },
+  {
+    "verse_id": 70,
+    "translation": "Yylhi timav dvp pnnis mạlis th pnnis qvms, yhi kth chhiv tvhụ̄ prstsh kran?"
+  },
+  {
+    "verse_id": 71,
+    "translation": "Timav dvpus asụ̄ chhi ʿbadt kran potlyn hnz, tvpth chhi timne brvntthh knhi ʿbadts mnz doh guzaran."
+  },
+  {
+    "verse_id": 72,
+    "translation": "Abrahym ʿlyh alslamn dvpukh, kya yim chha tuhund bvzan yylhi tvhụ̄ timn kynhh mngan chhiv."
+  },
+  {
+    "verse_id": 73,
+    "translation": "Kya byyhi chha tim tohyhi prstsh krns petth anhh ẓryr vatnavan, timav dvpukh yhi kth chhanh kh yim kya chhi kynhh bvzan ya nfʿ th ẓryr vatnavan."
+  },
+  {
+    "verse_id": 74,
+    "translation": "Blkh vuchh aashi pnnụ̄ mạlụ̄ buddi bb yithe pạtthụ̄ timn prstsh kran."
+  },
+  {
+    "verse_id": 75,
+    "translation": "Abrahym ʿlyh alslamn dvpukh tvhụ̄ vuchiv timn hnz ḥalt bghvr yimn tvhụ̄ prstsh kran chhiv,"
+  },
+  {
+    "verse_id": 76,
+    "translation": "Byyhi yimn hnz prstsh tuhndụ̄ mạlụ̄ buddi bb kran ạsụ̄, tim ma chhi kunhi nfʿ v ẓryrkụ̄ akhtyar vạlụ̄."
+  },
+  {
+    "verse_id": 77,
+    "translation": "Be shk yim mʿbvdani bạṭl chhi myanhi ḥqh bạʿth ẓryr th nqṣan tuhndi ḥqh thi chhi tim baʿth ẓryr th nqṣan, ghrẓ tihnz ʿbadt yus kri tasndi ḥqh chhi tim baʿth ẓryr mgr nh ʿālmynn hund prvrdgar. Suh chhu pnnyn ʿbadt krvunyn hund dvst, tihnz ʿbadt krnụ̄ chhe baʿth nfʿ th fạydh."
+  },
+  {
+    "verse_id": 78,
+    "translation": "Yymụ̄ b pạd kvruds byyhi yymụ̄ sạry pạd krụ̄, sue chhu myanyn mṣlḥtn kun vath havan."
+  },
+  {
+    "verse_id": 79,
+    "translation": "Byyhi yus me khyavan th chavan chhu."
+  },
+  {
+    "verse_id": 80,
+    "translation": "Byyhi yylhi bh bymar pyvan chhus, sue chhum blh ravan th shfa divan."
+  },
+  {
+    "verse_id": 81,
+    "translation": "Byyhi yus me aakhi doh mari th pth krym dvbarh byyhi zndh qyamt kh doh."
+  },
+  {
+    "verse_id": 82,
+    "translation": "Byyhi chhe tmụ̄ snz me setthah amyd kh suh kri me mghfrt, myanyn gnahn qyamt kh doh. Yim ṣfat v kmal khdae sndụ̄ byan kran kran sapud abrahym ʿlyh alslams ḥẓvruk mqam ḥaṣl, tvpth hyvtukh munajat krun."
+  },
+  {
+    "verse_id": 83,
+    "translation": "Ae myanhi prvrdgar ʿṭa krme kmali ʿlm byyhi kmali ʿml, byyhi milnav me qurb kinụ̄ tihindyn mqamn andr. Nykv kar bndn sintụ̄, ʿạly shan anbyahn sintụ̄."
+  },
+  {
+    "verse_id": 84,
+    "translation": "Byyhi thav myvn dhkri khyr pth yivunyn andr yuth tim myạnụ̄ mutabʿt krn, myany vathi pkn, me bnhi tamhi sintụ̄ zyadh thvab."
+  },
+  {
+    "verse_id": 85,
+    "translation": "Byyhi kr me nʿmt kyn jntn hndyv vạrithv andrh."
+  },
+  {
+    "verse_id": 86,
+    "translation": "Byyhi kr mghfrt myạnis mạlis aymanuk tvfyq dith, tikyazi suh chhu be shk gmrahv andrh."
+  },
+  {
+    "verse_id": 87,
+    "translation": "Byyhi mah mndchhav me qyamt kh doh yymhi doh sạry yin byyhi zndh krith qbrv mnz tulnh, tamhi dohe mvl myvn kạfrn sintụ̄ vothhi, jhnms svznh yiyhi, so chhe myanhi khạṭr skht be ʿzty."
+  },
+  {
+    "verse_id": 88,
+    "translation": "Yymhi doh nh kanhh nfʿ th fạydh diyhi, nh mal th nh shurụ̄ gabr."
+  },
+  {
+    "verse_id": 89,
+    "translation": "Mgr fạydh banhi ts yus hyth yiyhi Allah tʿālyā hs brvntth kun avr dilah, yus dl shrkh nishhi, kfr nishhi, nfaq nishhi th khlaf shrʿ ychh ʿqạydv nishhi pak āshi."
+  },
+  {
+    "verse_id": 90,
+    "translation": "Byyhi yymhi doh nkhh yiyhi aannhi jnt prhyzgarn nishhi."
+  },
+  {
+    "verse_id": 91,
+    "translation": "Byyhi yymhi doh nybr krrnh yiyhi jhnm gmrahn th kạfrn hndi khạṭr."
+  },
+  {
+    "verse_id": 92,
+    "translation": "Byyhi yiyhi vannhi timn kthi chhiv tim mʿbvudani bạṭl yimn hnz tvhụ̄ prstsh kran ạsiv khdays vrạe?"
+  },
+  {
+    "verse_id": 93,
+    "translation": "Kya tim hyknvah tohyhi aaz kynhh mdd krith ya tohyhi sintụ̄ rvuzith, ya pans hyknh kanhh fạydh vatnạvith, panun pan hyknh bchạvith."
+  },
+  {
+    "verse_id": 94,
+    "translation": "Tvpth yin buthhi kinụ̄ travnh tim mʿbvudani bạṭl th tim gmarh lvukh thi yim tihnz prstsh kran ạsụ̄ nari jhnms andr."
+  },
+  {
+    "verse_id": 95,
+    "translation": "Byyhi yiyhi travnh jhnms andr ablys snz sạre lshkr."
+  },
+  {
+    "verse_id": 96,
+    "translation": "Dapn tim kạfr yylhi tim nari jhnms andr pnnyn mʿbvudani bạṭln sintụ̄ ạsụ̄ gftgv th harhar kran."
+  },
+  {
+    "verse_id": 97,
+    "translation": "Qsmi khda pzipạtthụ̄ ạsụ̄ asụ̄ nanhi gmrạhy petth."
+  },
+  {
+    "verse_id": 98,
+    "translation": "Yylhi aashi ʿbadts mnz prvrdgariʿālmyns sintụ̄ tohyhi brabr thavan ạsụ̄."
+  },
+  {
+    "verse_id": 99,
+    "translation": "Asụ̄ krụ̄ nh gmrah mgr yimav bddyv mujrmv yim aṣly pạtthụ̄ gmrahy hndụ̄ bạny ạsụ̄."
+  },
+  {
+    "verse_id": 100,
+    "translation": "Vonụ̄ chhunh sanhi khạṭr kanhh shfaʿt krvunah yus aashi moklaviha,"
+  },
+  {
+    "verse_id": 101,
+    "translation": "Byyhi nh chhu aashi kanhh dily dvstah yus svn ghm khyyhi ha, shryki ghm sapdiha."
+  },
+  {
+    "verse_id": 102,
+    "translation": "Vonụ̄ he aashi byyhi dunyahs kun svzhn, asụ̄ bnhav baaymanv andrh, yvt tanụ̄ gvv khtm abrahym ʿlyh aslam sund tqryr, aamhi pth chhu Allah tʿālyā frmavan."
+  },
+  {
+    "verse_id": 103,
+    "translation": "Pzipạtthụ̄ yth qṣs mnz thi chhu bvdd nshanh khdae sndi qdrtuk, byyhi bvdd ʿbrt ḥq czhanddvunyn khạṭr, byyhi ạsụ̄ nh timav mkh kyv kạfrv andrh zyadh lvukh baayman."
+  },
+  {
+    "verse_id": 104,
+    "translation": "Byyhi chhu yqynaan tuhund prvrdgar setthah zbrdst th ghạlb. Timn hykhi ha suh grftari ʿdhab krith, setthah rḥmt vvl thi chhu, tamy chhukh mhlt divan."
+  },
+  {
+    "verse_id": 105,
+    "translation": "Sạry pyghmbr aapzụ̄ zạnith kvr ankar nvḥ ʿlyh alslam sndụ̄ qvmn thi )akis pyghmbrs anar krun gvv sarine pyghmbrn ankar krun(."
+  },
+  {
+    "verse_id": 106,
+    "translation": "Yylhi timn vvn bạe pnnụ̄ nvḥ ʿlyh alslamn, kya tvhụ̄ chhiv na khoczan khdays?"
+  },
+  {
+    "verse_id": 107,
+    "translation": "Be shk bh chhus tohyhi kun amant dar pyghmbr. Khdae sund pygham chhus bh tohyhi vatnavan pvur pvur kmy zyadty vrạe."
+  },
+  {
+    "verse_id": 108,
+    "translation": "Ps khvczụ̄tv khdays byyhi mạniv myvn ḥkm yath mnz tuhund fạydh chhu."
+  },
+  {
+    "verse_id": 109,
+    "translation": "Bh chhus nh tohyhi mngan tblygh khạṭr kanhh mvzvuryah, myạnụ̄ mvzvurụ̄ chhanh kạnshi matthi rb alʿālmyns vrạe."
+  },
+  {
+    "verse_id": 110,
+    "translation": "Byyhi chhusav vnan khvcziv khdays byyhi myạniv myạnụ̄ kth."
+  },
+  {
+    "verse_id": 111,
+    "translation": "Timav lvukv dvpus kya asụ̄ krvyhi cze pczh, ḥalankh chạnụ̄ pyrv chhi kmynh lvukh, shryfn chhu ʿār gczhan timn sintụ̄ mvafqt krns andr."
+  },
+  {
+    "verse_id": 112,
+    "translation": "Ḥẓrt nvḥn dvpukh me kya chhe khbr timn hnz kạm th karvbar kya chhu, dyns andr chhi shryf th kmyn brabr."
+  },
+  {
+    "verse_id": 113,
+    "translation": "Timn nishhi ḥsab hyvn chhe myạnis prvrdgar snz kạm, kya rut gczihh ha hrgah tohyhi zanun tghi ha."
+  },
+  {
+    "verse_id": 114,
+    "translation": "Bh hykh nh hrgz pans nishhi dvur krith baayman, tvhụ̄ anụ̄ tv ya mth anụ̄ tv."
+  },
+  {
+    "verse_id": 115,
+    "translation": "Bh chhus ṣaf ṣaf nnụ̄ pạtthụ̄ byim krvun, myvn frẓi mnṣby chhu pvur spdan, tvhụ̄ vuchhiv panh panun nfʿ v nqṣan."
+  },
+  {
+    "verse_id": 116,
+    "translation": "Timav dvpus ae nvḥ hrgah czh pth rvzkh nh yimav kthv nishhi tylhi yikh czh ẓrvr sngsar krnh. Tvpth yylhi varyah kal gvv yimn yithe pạtthụ̄ aṣrar kran kfrv ankars petth."
+  },
+  {
+    "verse_id": 117,
+    "translation": "Ḥẓrt nvḥn kvr dʿā ae myanhi prvrdgar myvn qvm chhunh myvn kynhh thi manan."
+  },
+  {
+    "verse_id": 118,
+    "translation": "Ps kr czh me mnz th timn mnz kanhh fạṣlah yʿny tim krukh ʿdhabs grftar. Tamhi ʿdhab nishhi dih me njat byyhi timn lvukn yim me sintụ̄ chhi baaymanv andrh."
+  },
+  {
+    "verse_id": 119,
+    "translation": "Ps kvr aashi tihindis dʿāhs aijabt. Njat duyt aashi nvḥ ʿlyh alslams byyhi timn yim timn sintụ̄ ạsụ̄ tth navih andr yosh lvukv, ḥyvanv, th janvrv sintụ̄ brith ạs."
+  },
+  {
+    "verse_id": 120,
+    "translation": "Tvpth phattivụ̄ aashi baqy sạry."
+  },
+  {
+    "verse_id": 121,
+    "translation": "Be shk yth vaqʿs mnz thi chhu bvdd ʿbrt bavjvd ān ạsụ̄ nh timvmkh kyv kạfrv andrh zyadh baayman."
+  },
+  {
+    "verse_id": 122,
+    "translation": "Be shk chhu tuhundue prvrdgar setthah ghạlb, suh hykhi ha timn grftar krith th sza dith mgr suh chhu setthah rḥm krvun, tmy chhu suh timn mhlt divan."
+  },
+  {
+    "verse_id": 123,
+    "translation": "Qvmi ʿādn thi kvr ankar sarine pyghmbrn tim aapzyrụ̄ zạnith."
+  },
+  {
+    "verse_id": 124,
+    "translation": "Yylhi timn frmvv bạe pnnụ̄ hvud ʿlyh alslamn, kya tvhụ̄ chhiv na khoczan khdays?"
+  },
+  {
+    "verse_id": 125,
+    "translation": "Pzipạtthụ̄ bh chhus tohyhi kun pyghmbrah amant dar."
+  },
+  {
+    "verse_id": 126,
+    "translation": "Ps khocziv tvhụ̄ khdays byyhi kriv myạnụ̄ frman brdạry."
+  },
+  {
+    "verse_id": 127,
+    "translation": "Bh chhusav nh mngan tohyhi aamhi khạṭrh kanhh mvzvuryah ya kanhh ʿiivẓah. Myạnụ̄ mvzvurụ̄ chhanh kạnshi matthi rbu alʿālmyns vrạe."
+  },
+  {
+    "verse_id": 128,
+    "translation": "Kya tvhụ̄ chhivh prth thazi jayhi petth aakh ʿmarthah th yadgarah bnavan, yhi chhiv aakh be hvudh kạmah kran yymuyk nh kanhh fydh chhu."
+  },
+  {
+    "verse_id": 129,
+    "translation": "Byyhi chhiv bjhi bjhi larih ladan ḥalankh aamhi khoth km jayn hykhi ha tohyhi āram ḥạṣl spdith, zan tohyhi yythụ̄ dnyahs andr hmyshh chhuv rvzun."
+  },
+  {
+    "verse_id": 130,
+    "translation": "Byyhi yylhi tvhụ̄ kạnshi petth aathh travan chhiv tylhi chhvun suh rttan ẓạlmanh th jạbranh, chvnkh shrk th ychh akhlaq chhi khdays napsnd. Yimav chyzv sintụ̄ sapdivtvhụ̄ ʿdhabs grftar."
+  },
+  {
+    "verse_id": 131,
+    "translation": "Ps khvucziv khdays byyhi mạniv myvn, kyazi bh chhus tuhund pyghmbr."
+  },
+  {
+    "verse_id": 132,
+    "translation": "Byyhi khvcziv ts khdays yymụ̄ tohyhi mddkvruv timav chyzv sintụ̄ yim tvhụ̄ zanan chhiv."
+  },
+  {
+    "verse_id": 133,
+    "translation": "Mdd kvrnav charpahav sintụ̄, aavladv sintụ̄,"
+  },
+  {
+    "verse_id": 134,
+    "translation": "Byyhi baghv th nagh radav sintụ̄. Nʿmcz ʿṭa krvun yus āshi tihnz gczihh frman brdạry krnụ̄, tihndyn ḥkmn gczihh nh mkhalft krnụ̄."
+  },
+  {
+    "verse_id": 135,
+    "translation": "Me chhu khvf th andyshhi tuhndi ḥqh kh hrgah tvhụ̄ pth rvuziv nh nafrmạnyv nishhi, Allah tʿālyā kryv tylhi grftar bddi doh kis ʿdhabs, suh gvv qyamtuk doh."
+  },
+  {
+    "verse_id": 136,
+    "translation": "Timav lvukv dvphs jvab, aashi nishhi chhe doshvae kthh brabr, czh vʿẓ prth ya math prth, asụ̄ rvzav nh pnnyv kamyv nishhi pth."
+  },
+  {
+    "verse_id": 137,
+    "translation": "yhi vʿẓ v nṣyḥt krith khocznavun, yhi chhunh mgr brvuntthimyn lvukn hund ʿādt. Prth vqts mnz āe lvukh nbvtuk dʿūyā dith yime kthh vnan. Czh chhukh aashi ʿdhabs khocznavan."
+  },
+  {
+    "verse_id": 138,
+    "translation": "Aashi yiyhi nh hrgz ʿdhab krnh kynhh thi."
+  },
+  {
+    "verse_id": 139,
+    "translation": "Ps zvn timav suh hvud ʿlyh alslam aapzyvr. Aadh gạlụ̄ aashi tim lvukh ʿdhabi ṣrṣrh sintụ̄. Be shk aath mʿāmls mnz chhu bvdd ʿbrt kh aḥkam alhāyn mnz mkhalftuk anjam kya chhu āsan. Bavjvd ān ạsụ̄ nh mkh kyv kạfrv andrh zyadh ayman aanh vunụ̄."
+  },
+  {
+    "verse_id": 140,
+    "translation": "Byyhi chhu pzipạtthụ̄ tuhundue prvrdgar setthah ghạlb, suh hykhi ha timn ʿdhabs grftar krith mgr suh chhu setthah rḥm krvun, tamy chhukh mhlt divan."
+  },
+  {
+    "verse_id": 141,
+    "translation": "Qvm thmvdn thi zạnụ̄ pyghmbr aapziyạrụ̄."
+  },
+  {
+    "verse_id": 142,
+    "translation": "Yylhi timn vvn bạe pnnụ̄ ṣalḥ ʿlyh alslamn, kvnh chhiv khoczan khdays?"
+  },
+  {
+    "verse_id": 143,
+    "translation": "Pzipạtthụ̄ bh chhus tuhund amant dar pyghmbr."
+  },
+  {
+    "verse_id": 144,
+    "translation": "Ps khvcziv khdays byyhi mạniv myvn vʿẓ v nṣyḥt."
+  },
+  {
+    "verse_id": 145,
+    "translation": "Bh chhus nh tohyhi mngan vʿẓ v nṣyḥt krns petth kanhh mvzvuriyah th ʿiivẓah, myạnụ̄ mvzvurụ̄ th ʿiivẓ chhunh kạnshi petth matthi rb alʿālmyns vrạe."
+  },
+  {
+    "verse_id": 146,
+    "translation": "Kya tvhụ̄ yiyivh travnh dnyakyn chyzn andr be fkr."
+  },
+  {
+    "verse_id": 147,
+    "translation": "Yʿny baghn th nagh radn mnz."
+  },
+  {
+    "verse_id": 148,
+    "translation": "Byyhi zraʿts th khzr baghn mnz yimn hund myvh chhu lṭyf."
+  },
+  {
+    "verse_id": 149,
+    "translation": "Byyhi chhiv khnụ̄ khnụ̄ kohn mnz tvhụ̄ grh bnavan, khosh pạtthụ̄ thykan thykan. Tohyhi chhav khbr yohe ḥal rvzi hmyshhi."
+  },
+  {
+    "verse_id": 150,
+    "translation": "Ps khvcziv khdays byyhi mạniv myvn."
+  },
+  {
+    "verse_id": 151,
+    "translation": "Byyhi mah bvuziv timn lvun hnz kthh yim nafrmạny andr ḥd ddlimtụ̄ chhi."
+  },
+  {
+    "verse_id": 152,
+    "translation": "Yim zmyns petth tbạhy chhi kran, kunhi qsmh aṣlaḥ chhinh kran."
+  },
+  {
+    "verse_id": 153,
+    "translation": "Timav kạfrv dvpus aashi chhu tran fkri cze chhue jvd krnh āmut yymhi sintụ̄ ʿqlhi andr ftvr chhue āmut, pyghmbry hund dʿūyā chhukh kran."
+  },
+  {
+    "verse_id": 154,
+    "translation": "Czh chhukh nh mgr aasy hyvu aakh ansanah, ansan chha pyghmbr āsan. Aadh hav th aashi kanhh nishanah, chhukh he czh pvz vanh vunyv andrh."
+  },
+  {
+    "verse_id": 155,
+    "translation": "Ṣalḥ ʿlyh alslamn dvpukh yhi avnttinụ̄ yoshi tuhnzi khvạhshhi mṭạbq myanhi dʿā sintụ̄ aakhi plh mnz pạdh kr, yhi chhu myạnis pyghmbr āsns petth bvdd nshanh th dlyl, amụ̄ sndyn ḥqvqn hund krụ̄zyv khyal, amụ̄ sndi khạṭr chhu aakh doh trysh chynch vạrụ̄, byyhi gyhi tuhndyn janvrn hndi trysh chynch vạrụ̄ byyhi doh."
+  },
+  {
+    "verse_id": 156,
+    "translation": "Byyhi gczihh nh tuhund kunhi qsmuk tklyf vatnavnh khạṭr ts aathh thi lagun, hrgah thi kvruv tohyhi tylhi rattyv tohyhi aakhi bddi dohuk ʿdhab. Timav nh kvr tihindi rsaltuk tṣdyq nh kvrukh amis vvunttnhi hund kanhh rʿāyt."
+  },
+  {
+    "verse_id": 157,
+    "translation": "Blkh mạr timav so vvunttinụ̄ ttkh nạr czttith, tvpth spdụ̄ timn āthari ʿdhab ẓạhr. Tim vuchhith spdụ̄ tim nạdm th pshyman."
+  },
+  {
+    "verse_id": 158,
+    "translation": "Tamhi pth rttụ̄ tim ʿdhabn yymuyk timn vʿdh thavnh avs āmut. Pzipạtthụ̄ yth vaqʿs mnz thi chhu bvdd ʿbrt, bavjvd ān avn nh ayman mkh kyv akthr lvukv."
+  },
+  {
+    "verse_id": 159,
+    "translation": "Pzipạtthụ̄ tuhund prvrdgar chhu setthah ghạlb, suh he yyczihh ha timn sarine kriha ʿdhabs grftar, suh chhu setthah rḥmt vvl tamhi sbbh diczn timn mhlt."
+  },
+  {
+    "verse_id": 160,
+    "translation": "Qvmi lvṭn thi zạnụ̄ pyghmbr aapziyạrụ̄."
+  },
+  {
+    "verse_id": 161,
+    "translation": "Yylhi timn dvp pnnụ̄ bạe lvṭ ʿlyh alslamn, kya tvhụ̄ chhiv na khdays khoczan?"
+  },
+  {
+    "verse_id": 162,
+    "translation": "Be shk chhus bh tuhund amant dar pyghmbr."
+  },
+  {
+    "verse_id": 163,
+    "translation": "Ps khvucziv tvhụ̄ khdays byyhi kriv myạnụ̄ aṭaʿt th frman brdạry, myanyv hdaytv mvjvb pkiv."
+  },
+  {
+    "verse_id": 164,
+    "translation": "Bh chhus nh mngan tohyhi aamhi vʿẓ v nṣyḥt khạṭr kanhh mvzvurụ̄. Myạnụ̄ mvzvurụ̄ chhanh matthi kạnshi rb alʿālmyns vrạe."
+  },
+  {
+    "verse_id": 165,
+    "translation": "Kya tvhụ̄ chhivh sạry dnya mnzh mrdan nkhh yith pnnụ̄ shhvt pvur kran?"
+  },
+  {
+    "verse_id": 166,
+    "translation": "Byyhi chhvukh tvhụ̄ pnnhi znanh yimh tuhndụ̄ prvrdgarn tuhndi khạṭr pạdh krimacz chhe nẓrandaz kran. Tvhụ̄ chhiv vaqʿī ḥd ansạnyt nishhi ddlh vunụ̄."
+  },
+  {
+    "verse_id": 167,
+    "translation": "Byyhi lgis dapnhi tim lvukh, ae lvṭ, hrgah ne czh pth rvzkh aashi nṣyḥt krnh nishhi tylhi yikh czh ẓrvr yymhi shhr mnz kddnh."
+  },
+  {
+    "verse_id": 168,
+    "translation": "Lvṭ ʿlyh alslamn dvpukh, bh chhus nh tuhnzi aamhi dhmky sbbh tohyhi nṣyḥt krnh nishhi pth rvzvun kyazi bh chhus ẓrvr tuhnzi yymhi ychh kamhi hund skht dshmn, me chhu khṭrh basan khbr kth blayhi gczihv tvhụ̄ grftar."
+  },
+  {
+    "verse_id": 169,
+    "translation": "Ae myanhi prvrdgar me thi myanyn khaṣ mtʿlqynn d njat tamhi ychh kamhi hndi sza nishhi yosh yim krn."
+  },
+  {
+    "verse_id": 170,
+    "translation": "ps dyut aashi njat lvṭ pyghmbrs byyhi tihndyn khaṣ mtʿlqn sarine."
+  },
+  {
+    "verse_id": 171,
+    "translation": "Akis bujhi znanhi vrạe yoshi atụ̄ rvuz rvzn vlyn mnz. Yʿny lvṭ ʿlyh alslam snz āshynụ̄."
+  },
+  {
+    "verse_id": 172,
+    "translation": "Tvpth gạlụ̄ aashi baqy sạry."
+  },
+  {
+    "verse_id": 173,
+    "translation": "Byyhi travi aashi timn petth knhi rvudkụ̄ pạtthụ̄. Ps kvtah ychh avs timn lvukn hnd rvud yimn godd khdae sndi ʿdhabuk byim krnh āyvv."
+  },
+  {
+    "verse_id": 174,
+    "translation": "Pzipạtthụ̄ aath vaqʿs mnz thi chhu bvdd ʿbrt, bavjvdān avn nh ayman mkh kyv akthr kạfrv."
+  },
+  {
+    "verse_id": 175,
+    "translation": "Byyhi chhu pzipạtthụ̄ tuhndue prvrdgar setthah zvr āvr, suh hykhi ha timn sarine grftar krith, suh chhu setthah rḥmt vvl tamhi mokhh dicznkh mhlt."
+  },
+  {
+    "verse_id": 176,
+    "translation": "Aapzụ̄ zạnụ̄ aykh valyv thi pyghmbr."
+  },
+  {
+    "verse_id": 177,
+    "translation": "Yylhi timn dvp shʿīb ʿlyh alslamn tvhụ̄ chhiv na khdays khoczan."
+  },
+  {
+    "verse_id": 178,
+    "translation": "Pzipạtthụ̄ bh chhus tuhund amant dar pyghmbr."
+  },
+  {
+    "verse_id": 179,
+    "translation": "Ps khvucziv khdays byyhi mạniv myvn vʿẓ v nṣyḥt."
+  },
+  {
+    "verse_id": 180,
+    "translation": "Bh chhus nh mngan tohyhi aath petth kanhh mvzvuryah th bdlah, myạnụ̄ mvzvurụ̄ chhanh kạnshi matthi rb alʿālmyns vrạe."
+  },
+  {
+    "verse_id": 181,
+    "translation": "Bh chhusav tohyhi vanan tvhụ̄ ạsiv pvur mynan, hrgz mah ạsiv lvukn chhvn myinith nqṣan vatnavan."
+  },
+  {
+    "verse_id": 182,
+    "translation": "Byyhi ạsiv rtụ̄ pạtthụ̄ trkri sintụ̄ tvlan. Ddnjhi mah ạsiv mav divan, prmanh mah ạsiv chhvnụ̄ thavan."
+  },
+  {
+    "verse_id": 183,
+    "translation": "Byyhi mah ạsiv lvukn hndyn chyzn mnz kmy kran, byyhi mah ạsiv tulan mulks mnz ftnh fsad."
+  },
+  {
+    "verse_id": 184,
+    "translation": "Byyhi ạsiv khoczan ts khdays yymụ̄ tvhụ̄ thi pạd kriv byyhi tim sạry lvukh yim tohyhi brvntth ạsụ̄."
+  },
+  {
+    "verse_id": 185,
+    "translation": "Timav lvukv dvphs, ae shʿīb cze petth chhu bvdd jvd krnh āmut yymhi sintụ̄ chanhi ʿqlhi chhu ftvr āmut tmy chhukh czh kran nbvtuk dʿūyā, cze kya khṣvṣyt chhe sanhi khoth."
+  },
+  {
+    "verse_id": 186,
+    "translation": "Czh chhukh aasy hyvu aakh ansanah, asụ̄ chhi zanan ẓrvr aapuz vanh vunyv andrh."
+  },
+  {
+    "verse_id": 187,
+    "translation": "Ps travnavth aashi petth āsmanch aakh chhalah, chhukh he czh pvz vanh vunyv andrh. Aashi sapdi mʿlvm kh vaqʿī chhukh czh pyghmbr."
+  },
+  {
+    "verse_id": 188,
+    "translation": "Ḥẓrt shʿībn dvpukh myạnis prvrdgars chhe pvur khbr tuhnzn sarine kamyn hnz."
+  },
+  {
+    "verse_id": 189,
+    "translation": "Ps yylhi timav ḥẓrt shʿīb ʿlyh alslam thi zvn aapziyvr, aadh rttụ̄ tim saybanh kh dohkụ̄ ʿdhabn. Avbrs akis tl āe vlnh, tmy mnz pyvv timn petth naruk rvud, tmy sintụ̄ ddụ̄ tim sạry. Yhi avs aakhi bddi dohuk ʿdhabah timn petth."
+  },
+  {
+    "verse_id": 190,
+    "translation": "Pzipạtthụ̄ aath mnz chhu ʿbrt, bavjvdān krnh mkh kyv akthr lvukv pczh."
+  },
+  {
+    "verse_id": 191,
+    "translation": "Be shk chhu tuhund prvrdgar setthah ghạlb, suh he yyczihh ha timn mkh kyn lvukn thi galiha, suh chhu setthah rḥmt vvl, tamy dicznkh mhlt."
+  },
+  {
+    "verse_id": 192,
+    "translation": "Byyhi chhu be shk yhi qrān mjyd prvrdgar ʿālmyn sndi ṭrfh nạzl krnh āmut."
+  },
+  {
+    "verse_id": 193,
+    "translation": "Yohe hyth vvth amantdar mlkhah aakh sanhi ḥkmh."
+  },
+  {
+    "verse_id": 194,
+    "translation": "Tvpth trvvun tuhndis dils petth yuth tohyhi spdvbyim krvunyv andrh."
+  },
+  {
+    "verse_id": 195,
+    "translation": "Yohe qrān mjyd chhu ṣaf ʿrby zyvih fṣyḥ v blygh."
+  },
+  {
+    "verse_id": 196,
+    "translation": "Be shk byyhi chhu āmut aamhi qrān mjyduk tdhkrh krnh brvuntthmyn ktabn andr."
+  },
+  {
+    "verse_id": 197,
+    "translation": "Kya tuhndi khạṭr chhuna yhi kth bvdd nshanhi th bdd dlyl kh zanan chhi aath qrān mjyds ya ḥẓrt Muḥammad ṣly Allah ʿlyh v slms, bny asrạyln hndụ̄ ʿạlm."
+  },
+  {
+    "verse_id": 198,
+    "translation": "Byyhi hrgah nạzl krhvn asụ̄ yhi qrān mjyd ʿjmy shkhṣs petth,"
+  },
+  {
+    "verse_id": 199,
+    "translation": "Sue yylhi yimn petth pran āsiha, ts thi annh hn yim lvukh ayman ʿnadh mokhh."
+  },
+  {
+    "verse_id": 200,
+    "translation": "Yithe pạtthụ̄ chhu aashi ankar pknvvmut nafrmann hndyn diln andr."
+  },
+  {
+    "verse_id": 201,
+    "translation": "Tim krn nh pczh tth qrāni mjyds yvt tanụ̄ nh ddyshn kuddur ʿdhab mrnh kh vqth ya ʿālmi brzkhs mnz ya ạkhrts andr."
+  },
+  {
+    "verse_id": 202,
+    "translation": "Sue ʿdhab pyyakh vạtith hngh th mngh, timn tarinh fkry yhi ʿdhab kthi āv th kpạrụ̄ āv."
+  },
+  {
+    "verse_id": 203,
+    "translation": "Tamhi saʿth dapn kya aashi yiyhi na mhlthah dinh, mgr tamhi saʿth nh āshi vqt mhltuk nh qvli aymanuk."
+  },
+  {
+    "verse_id": 204,
+    "translation": "Kya yim chha sạnis ʿdhabs jld czhanddan yymuyk mṭlb chhu ankar krun."
+  },
+  {
+    "verse_id": 205,
+    "translation": "cze vanth ae bvzvunhi hrgah asụ̄ yimn mhlt dith fạydh tulnavvkh varyahn vriyn thi,"
+  },
+  {
+    "verse_id": 206,
+    "translation": "Tvpth vathi timn suh ʿdhab yymuyk timn vʿdh thavnh avs yivan."
+  },
+  {
+    "verse_id": 207,
+    "translation": "Kya nfʿ diyhi timn kynczhn vriyn hund fạydh tulnavun."
+  },
+  {
+    "verse_id": 208,
+    "translation": "Byyhi krụ̄ nh aashi kunhi shhrkụ̄ lvukh hlak mgr godde āe timn nishhi byim krnh khạṭr pyghmbr, yylhi nh timav mvn, aadh āv timn ʿdhab svznh."
+  },
+  {
+    "verse_id": 209,
+    "translation": "Timn lvukn czyts pavnh khạṭr, asụ̄ ạsụ̄ nh kạnshi nsbt ẓlm krvunụ̄."
+  },
+  {
+    "verse_id": 210,
+    "translation": "Byyhi spdụ̄ nh yhi qrān mjyd hyth nạzl shyṭan yim kahnn nishhi yivan chhi, nh pazi timn yhi ktab hyth kya yin, kyazi yhi ktab chhe hyri petthh bon tanụ̄ hdayt. Shyṭan chhi hyri petth bon tanụ̄ ẓlalt th gmrạhy."
+  },
+  {
+    "verse_id": 211,
+    "translation": "Aath chhunh timn sintụ̄ vatthe kanhh, nh hykn tim yiczh ktab hyth vsith."
+  },
+  {
+    "verse_id": 212,
+    "translation": "Kyazi tim chhi yhi qrān mjyd bvznh nishhi dvur āmtụ̄ thavnh. Timn chhu aamhi nishhi tthvr āmut krnh. Lhādha chhu yhi qrān mjyd khdae sndy ṭrfh tohyhi petth nạzl āmut krnh ya rsvl Allah."
+  },
+  {
+    "verse_id": 213,
+    "translation": "Ps mh ḥẓ kriv ʿbadt tvhụ̄ mʿbvudi brḥqs sintụ̄ byyhi kạnshi mʿbvd snz. Tamhi sintụ̄ yiyav tohyhi thi ʿdhab krnh byyn hnz chhanh kthe kanhh."
+  },
+  {
+    "verse_id": 214,
+    "translation": "Aamy mokhh kriv tvhụ̄ byim godd nkhh ạshnavan pnnyn."
+  },
+  {
+    "verse_id": 215,
+    "translation": "Byyhi nvmrạviv tvhụ̄ shfqt v mhrbạny hnz pkhh timn lvukn hndi khạṭr yimav tuhnz mutabʿt kr baaymanav andrh, aadh tim ạshinav ạsitn ya mth ạsitn."
+  },
+  {
+    "verse_id": 216,
+    "translation": "Hrgah tim lvukh yimn tohyhi byim kvruv tuhnz nafrmạny krn, aadh tim tuhndụ̄ ạshinav ạsitn ya mth ạsitn, tvhụ̄ frmạviyvukh bh chhus tuhnzi kamhi nishhi setthah be zar, mechhunh tohyhi sintụ̄ kanhh lyn dyn th tʿlq."
+  },
+  {
+    "verse_id": 217,
+    "translation": "Byyhi kriv tvhụ̄ aʿtmad th ddkh ts prvrdgars petth yus setthah ghạlb th setthah rḥmt vvl chhu, tihindi tklyf vatnavnuk mah kriv kanhh andyshhi."
+  },
+  {
+    "verse_id": 218,
+    "translation": "Yus prvrdgar tohyhi vuchhan chhuv nemazi kun vothnh vqth."
+  },
+  {
+    "verse_id": 219,
+    "translation": "Byyhi yymhi saʿth tvhụ̄ nemaz prvunyn sintụ̄ khsan vasan chhiv. Rkvʿ v sjvd kran chhiv."
+  },
+  {
+    "verse_id": 220,
+    "translation": "Be shk pzipạtthụ̄ Allah tʿālyā chhu svrue bvzvun, svrue zanh vun."
+  },
+  {
+    "verse_id": 221,
+    "translation": "Ae lvukv kya bh krvh tohyhi khbr shyṭan ks petth chhu vasan?"
+  },
+  {
+    "verse_id": 222,
+    "translation": "Varh bvuziv tim chhi vsan timne petth yim goddh petthe aapziyạrụ̄ th bdkar āsn."
+  },
+  {
+    "verse_id": 223,
+    "translation": "Yim shyṭann hndi khbr vannh vqth kan dạrith chhi timh kthh th khbr bvzan. Tvpth lvukn timh khbr vannh kh vqth pnnhi ṭrfh varyah aapuzmilh nạvith timh kthh vnan. Nby krym sund dhati babrkat chhu tamhi nishhi mubra th pak. Aamhi sintụ̄ sapud timn nishhi khantuk shubh dvur. Pth rvud shạʿrytuk shubh tth mtʿlq chhu Allah tʿālyā frmavan."
+  },
+  {
+    "verse_id": 224,
+    "translation": "Bạth vann valyn hnzi vathi chhi pkan time yim vathi ddlụ̄ mtụ̄ āsn. Yʿny bạth th khyạly mẓamyn vannụ̄, bạthh pạtthụ̄ ya ʿbarts andr yʿny nẓm ya nthrr vanun chhu timn lvun hund kar, yim tḥqyqh vrạe khyạly mẓamyn vnan āsn, yimn mẓmvnn vaqʿs sintụ̄ kanhh tʿlq āshi nh."
+  },
+  {
+    "verse_id": 225,
+    "translation": "Czh chhukhna vuchhan ae mkhạṭb tim shaʿr chhi khyạly mẓamynn hndis prth mạdans mnz ḥạran. Khvnt khyvan mẓmvn tlash krnh khạṭr, yylhi timn kanhh mẓmvnah bnan chhu, chvnkh suh chhu āsan akthr khlaf vaqʿ."
+  },
+  {
+    "verse_id": 226,
+    "translation": "Tmy sbbh chhi tim vnan ty yhi nh tim kran chhi. Mẓamyn qrānyh yth yth babs mtʿlq āsn tim sạry chhi mḥqq, khyạly hrgz chhinh tim. Lhādha nby krym ṣly Allah ʿlyh v slmn shaʿr vanun, yhi gvv mḥẓ jnvn th dyvangy. Allah tʿālyā hn dicz nh sạnis nby krym ṣly Allah ʿlyh v slms mnẓvm klam krns petth qdrthe. Chvnkh yimn āyati krymn mnz āyhi shạʿrn hnz mdhmt krnh tth mnz āe sạry shạʿr. Chvnkh bʿẓ shạʿrn hund klam chhu ʿīni ḥkmt byyhi pvur mḥqq. Tamhi mokhh krụ̄ Allah tʿālyā hn tim mustthnyā."
+  },
+  {
+    "verse_id": 227,
+    "translation": "Mgr nh tim shạʿr yimav khdays pczh krith rczh ʿmlh kri, byyhi kvrukh yad mʿbvdi brḥq sund bkthrt. Byyhi hyvt timav bdlh kạfrn nishhi pnnyv shʿrv sintụ̄ timn petth ẓlm spdnh path. Kyazi kạfrv ạsụ̄ timn rngarng ẓlm vatnvvmut, lhādha hyvtukh timav tamuyk bdlh. Brvntth phn zann ẓạlm yimav khdae sund th pyghmbr khdae sund ḥq ya ḥqvq alʿbad ẓlm krith ẓayʿ kvr kh kth anqlab chh jayhi yin tim vatnavnh mrnh pth. Soe jae gyhi narijhnm."
+  }
+]

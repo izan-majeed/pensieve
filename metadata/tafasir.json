@@ -1,0 +1,26 @@
+[
+  {
+    "tafsir_id": 169,
+    "language": "en",
+    "tafsir_name": "Ibn Kathir (Abridged)",
+    "author": "Hafiz Ibn Kathir"
+  },
+  {
+    "tafsir_id": 168,
+    "language": "en",
+    "tafsir_name": "Ma'arif al-Qur'an",
+    "author": "Mufti Muhammad Shafi"
+  },
+  {
+    "tafsir_id": 817,
+    "language": "en",
+    "tafsir_name": "Tazkirul Quran",
+    "author": "Maulana Wahid Uddin Khan"
+  },
+  {
+    "tafsir_id": 159,
+    "language": "ur",
+    "tafsir_name": "Bayan ul Quran",
+    "author": "Dr. Israr Ahmad"
+  }
+]

@@ -1,0 +1,1028 @@
+[
+  {
+    "surah_id": 1,
+    "name_ar": "الفاتحة",
+    "name_en": "Al-Fatihah",
+    "meaning_en": "The Opener",
+    "revelation_place": "Makkah",
+    "revelation_order": 5,
+    "verses_count": 7
+  },
+  {
+    "surah_id": 2,
+    "name_ar": "البقرة",
+    "name_en": "Al-Baqarah",
+    "meaning_en": "The Cow",
+    "revelation_place": "Madinah",
+    "revelation_order": 87,
+    "verses_count": 286
+  },
+  {
+    "surah_id": 3,
+    "name_ar": "آل عمران",
+    "name_en": "Ali 'Imran",
+    "meaning_en": "Family of Imran",
+    "revelation_place": "Madinah",
+    "revelation_order": 89,
+    "verses_count": 200
+  },
+  {
+    "surah_id": 4,
+    "name_ar": "النساء",
+    "name_en": "An-Nisa",
+    "meaning_en": "The Women",
+    "revelation_place": "Madinah",
+    "revelation_order": 92,
+    "verses_count": 176
+  },
+  {
+    "surah_id": 5,
+    "name_ar": "المائدة",
+    "name_en": "Al-Ma'idah",
+    "meaning_en": "The Table Spread",
+    "revelation_place": "Madinah",
+    "revelation_order": 112,
+    "verses_count": 120
+  },
+  {
+    "surah_id": 6,
+    "name_ar": "الأنعام",
+    "name_en": "Al-An'am",
+    "meaning_en": "The Cattle",
+    "revelation_place": "Makkah",
+    "revelation_order": 55,
+    "verses_count": 165
+  },
+  {
+    "surah_id": 7,
+    "name_ar": "الأعراف",
+    "name_en": "Al-A'raf",
+    "meaning_en": "The Heights",
+    "revelation_place": "Makkah",
+    "revelation_order": 39,
+    "verses_count": 206
+  },
+  {
+    "surah_id": 8,
+    "name_ar": "الأنفال",
+    "name_en": "Al-Anfal",
+    "meaning_en": "The Spoils of War",
+    "revelation_place": "Madinah",
+    "revelation_order": 88,
+    "verses_count": 75
+  },
+  {
+    "surah_id": 9,
+    "name_ar": "التوبة",
+    "name_en": "At-Tawbah",
+    "meaning_en": "The Repentance",
+    "revelation_place": "Madinah",
+    "revelation_order": 113,
+    "verses_count": 129
+  },
+  {
+    "surah_id": 10,
+    "name_ar": "يونس",
+    "name_en": "Yunus",
+    "meaning_en": "Jonah",
+    "revelation_place": "Makkah",
+    "revelation_order": 51,
+    "verses_count": 109
+  },
+  {
+    "surah_id": 11,
+    "name_ar": "هود",
+    "name_en": "Hud",
+    "meaning_en": "Hud",
+    "revelation_place": "Makkah",
+    "revelation_order": 52,
+    "verses_count": 123
+  },
+  {
+    "surah_id": 12,
+    "name_ar": "يوسف",
+    "name_en": "Yusuf",
+    "meaning_en": "Joseph",
+    "revelation_place": "Makkah",
+    "revelation_order": 53,
+    "verses_count": 111
+  },
+  {
+    "surah_id": 13,
+    "name_ar": "الرعد",
+    "name_en": "Ar-Ra'd",
+    "meaning_en": "The Thunder",
+    "revelation_place": "Madinah",
+    "revelation_order": 96,
+    "verses_count": 43
+  },
+  {
+    "surah_id": 14,
+    "name_ar": "ابراهيم",
+    "name_en": "Ibrahim",
+    "meaning_en": "Abraham",
+    "revelation_place": "Makkah",
+    "revelation_order": 72,
+    "verses_count": 52
+  },
+  {
+    "surah_id": 15,
+    "name_ar": "الحجر",
+    "name_en": "Al-Hijr",
+    "meaning_en": "The Rocky Tract",
+    "revelation_place": "Makkah",
+    "revelation_order": 54,
+    "verses_count": 99
+  },
+  {
+    "surah_id": 16,
+    "name_ar": "النحل",
+    "name_en": "An-Nahl",
+    "meaning_en": "The Bee",
+    "revelation_place": "Makkah",
+    "revelation_order": 70,
+    "verses_count": 128
+  },
+  {
+    "surah_id": 17,
+    "name_ar": "الإسراء",
+    "name_en": "Al-Isra",
+    "meaning_en": "The Night Journey",
+    "revelation_place": "Makkah",
+    "revelation_order": 50,
+    "verses_count": 111
+  },
+  {
+    "surah_id": 18,
+    "name_ar": "الكهف",
+    "name_en": "Al-Kahf",
+    "meaning_en": "The Cave",
+    "revelation_place": "Makkah",
+    "revelation_order": 69,
+    "verses_count": 110
+  },
+  {
+    "surah_id": 19,
+    "name_ar": "مريم",
+    "name_en": "Maryam",
+    "meaning_en": "Mary",
+    "revelation_place": "Makkah",
+    "revelation_order": 44,
+    "verses_count": 98
+  },
+  {
+    "surah_id": 20,
+    "name_ar": "طه",
+    "name_en": "Taha",
+    "meaning_en": "Ta-Ha",
+    "revelation_place": "Makkah",
+    "revelation_order": 45,
+    "verses_count": 135
+  },
+  {
+    "surah_id": 21,
+    "name_ar": "الأنبياء",
+    "name_en": "Al-Anbya",
+    "meaning_en": "The Prophets",
+    "revelation_place": "Makkah",
+    "revelation_order": 73,
+    "verses_count": 112
+  },
+  {
+    "surah_id": 22,
+    "name_ar": "الحج",
+    "name_en": "Al-Hajj",
+    "meaning_en": "The Pilgrimage",
+    "revelation_place": "Madinah",
+    "revelation_order": 103,
+    "verses_count": 78
+  },
+  {
+    "surah_id": 23,
+    "name_ar": "المؤمنون",
+    "name_en": "Al-Mu'minun",
+    "meaning_en": "The Believers",
+    "revelation_place": "Makkah",
+    "revelation_order": 74,
+    "verses_count": 118
+  },
+  {
+    "surah_id": 24,
+    "name_ar": "النور",
+    "name_en": "An-Nur",
+    "meaning_en": "The Light",
+    "revelation_place": "Madinah",
+    "revelation_order": 102,
+    "verses_count": 64
+  },
+  {
+    "surah_id": 25,
+    "name_ar": "الفرقان",
+    "name_en": "Al-Furqan",
+    "meaning_en": "The Criterion",
+    "revelation_place": "Makkah",
+    "revelation_order": 42,
+    "verses_count": 77
+  },
+  {
+    "surah_id": 26,
+    "name_ar": "الشعراء",
+    "name_en": "Ash-Shu'ara",
+    "meaning_en": "The Poets",
+    "revelation_place": "Makkah",
+    "revelation_order": 47,
+    "verses_count": 227
+  },
+  {
+    "surah_id": 27,
+    "name_ar": "النمل",
+    "name_en": "An-Naml",
+    "meaning_en": "The Ant",
+    "revelation_place": "Makkah",
+    "revelation_order": 48,
+    "verses_count": 93
+  },
+  {
+    "surah_id": 28,
+    "name_ar": "القصص",
+    "name_en": "Al-Qasas",
+    "meaning_en": "The Stories",
+    "revelation_place": "Makkah",
+    "revelation_order": 49,
+    "verses_count": 88
+  },
+  {
+    "surah_id": 29,
+    "name_ar": "العنكبوت",
+    "name_en": "Al-'Ankabut",
+    "meaning_en": "The Spider",
+    "revelation_place": "Makkah",
+    "revelation_order": 85,
+    "verses_count": 69
+  },
+  {
+    "surah_id": 30,
+    "name_ar": "الروم",
+    "name_en": "Ar-Rum",
+    "meaning_en": "The Romans",
+    "revelation_place": "Makkah",
+    "revelation_order": 84,
+    "verses_count": 60
+  },
+  {
+    "surah_id": 31,
+    "name_ar": "لقمان",
+    "name_en": "Luqman",
+    "meaning_en": "Luqman",
+    "revelation_place": "Makkah",
+    "revelation_order": 57,
+    "verses_count": 34
+  },
+  {
+    "surah_id": 32,
+    "name_ar": "السجدة",
+    "name_en": "As-Sajdah",
+    "meaning_en": "The Prostration",
+    "revelation_place": "Makkah",
+    "revelation_order": 75,
+    "verses_count": 30
+  },
+  {
+    "surah_id": 33,
+    "name_ar": "الأحزاب",
+    "name_en": "Al-Ahzab",
+    "meaning_en": "The Combined Forces",
+    "revelation_place": "Madinah",
+    "revelation_order": 90,
+    "verses_count": 73
+  },
+  {
+    "surah_id": 34,
+    "name_ar": "سبإ",
+    "name_en": "Saba",
+    "meaning_en": "Sheba",
+    "revelation_place": "Makkah",
+    "revelation_order": 58,
+    "verses_count": 54
+  },
+  {
+    "surah_id": 35,
+    "name_ar": "فاطر",
+    "name_en": "Fatir",
+    "meaning_en": "Originator",
+    "revelation_place": "Makkah",
+    "revelation_order": 43,
+    "verses_count": 45
+  },
+  {
+    "surah_id": 36,
+    "name_ar": "يس",
+    "name_en": "Ya-Sin",
+    "meaning_en": "Ya Sin",
+    "revelation_place": "Makkah",
+    "revelation_order": 41,
+    "verses_count": 83
+  },
+  {
+    "surah_id": 37,
+    "name_ar": "الصافات",
+    "name_en": "As-Saffat",
+    "meaning_en": "Those who set the Ranks",
+    "revelation_place": "Makkah",
+    "revelation_order": 56,
+    "verses_count": 182
+  },
+  {
+    "surah_id": 38,
+    "name_ar": "ص",
+    "name_en": "Sad",
+    "meaning_en": "The Letter \"Saad\"",
+    "revelation_place": "Makkah",
+    "revelation_order": 38,
+    "verses_count": 88
+  },
+  {
+    "surah_id": 39,
+    "name_ar": "الزمر",
+    "name_en": "Az-Zumar",
+    "meaning_en": "The Troops",
+    "revelation_place": "Makkah",
+    "revelation_order": 59,
+    "verses_count": 75
+  },
+  {
+    "surah_id": 40,
+    "name_ar": "غافر",
+    "name_en": "Ghafir",
+    "meaning_en": "The Forgiver",
+    "revelation_place": "Makkah",
+    "revelation_order": 60,
+    "verses_count": 85
+  },
+  {
+    "surah_id": 41,
+    "name_ar": "فصلت",
+    "name_en": "Fussilat",
+    "meaning_en": "Explained in Detail",
+    "revelation_place": "Makkah",
+    "revelation_order": 61,
+    "verses_count": 54
+  },
+  {
+    "surah_id": 42,
+    "name_ar": "الشورى",
+    "name_en": "Ash-Shuraa",
+    "meaning_en": "The Consultation",
+    "revelation_place": "Makkah",
+    "revelation_order": 62,
+    "verses_count": 53
+  },
+  {
+    "surah_id": 43,
+    "name_ar": "الزخرف",
+    "name_en": "Az-Zukhruf",
+    "meaning_en": "The Ornaments of Gold",
+    "revelation_place": "Makkah",
+    "revelation_order": 63,
+    "verses_count": 89
+  },
+  {
+    "surah_id": 44,
+    "name_ar": "الدخان",
+    "name_en": "Ad-Dukhan",
+    "meaning_en": "The Smoke",
+    "revelation_place": "Makkah",
+    "revelation_order": 64,
+    "verses_count": 59
+  },
+  {
+    "surah_id": 45,
+    "name_ar": "الجاثية",
+    "name_en": "Al-Jathiyah",
+    "meaning_en": "The Crouching",
+    "revelation_place": "Makkah",
+    "revelation_order": 65,
+    "verses_count": 37
+  },
+  {
+    "surah_id": 46,
+    "name_ar": "الأحقاف",
+    "name_en": "Al-Ahqaf",
+    "meaning_en": "The Wind-Curved Sandhills",
+    "revelation_place": "Makkah",
+    "revelation_order": 66,
+    "verses_count": 35
+  },
+  {
+    "surah_id": 47,
+    "name_ar": "محمد",
+    "name_en": "Muhammad",
+    "meaning_en": "Muhammad",
+    "revelation_place": "Madinah",
+    "revelation_order": 95,
+    "verses_count": 38
+  },
+  {
+    "surah_id": 48,
+    "name_ar": "الفتح",
+    "name_en": "Al-Fath",
+    "meaning_en": "The Victory",
+    "revelation_place": "Madinah",
+    "revelation_order": 111,
+    "verses_count": 29
+  },
+  {
+    "surah_id": 49,
+    "name_ar": "الحجرات",
+    "name_en": "Al-Hujurat",
+    "meaning_en": "The Rooms",
+    "revelation_place": "Madinah",
+    "revelation_order": 106,
+    "verses_count": 18
+  },
+  {
+    "surah_id": 50,
+    "name_ar": "ق",
+    "name_en": "Qaf",
+    "meaning_en": "The Letter \"Qaf\"",
+    "revelation_place": "Makkah",
+    "revelation_order": 34,
+    "verses_count": 45
+  },
+  {
+    "surah_id": 51,
+    "name_ar": "الذاريات",
+    "name_en": "Adh-Dhariyat",
+    "meaning_en": "The Winnowing Winds",
+    "revelation_place": "Makkah",
+    "revelation_order": 67,
+    "verses_count": 60
+  },
+  {
+    "surah_id": 52,
+    "name_ar": "الطور",
+    "name_en": "At-Tur",
+    "meaning_en": "The Mount",
+    "revelation_place": "Makkah",
+    "revelation_order": 76,
+    "verses_count": 49
+  },
+  {
+    "surah_id": 53,
+    "name_ar": "النجم",
+    "name_en": "An-Najm",
+    "meaning_en": "The Star",
+    "revelation_place": "Makkah",
+    "revelation_order": 23,
+    "verses_count": 62
+  },
+  {
+    "surah_id": 54,
+    "name_ar": "القمر",
+    "name_en": "Al-Qamar",
+    "meaning_en": "The Moon",
+    "revelation_place": "Makkah",
+    "revelation_order": 37,
+    "verses_count": 55
+  },
+  {
+    "surah_id": 55,
+    "name_ar": "الرحمن",
+    "name_en": "Ar-Rahman",
+    "meaning_en": "The Beneficent",
+    "revelation_place": "Madinah",
+    "revelation_order": 97,
+    "verses_count": 78
+  },
+  {
+    "surah_id": 56,
+    "name_ar": "الواقعة",
+    "name_en": "Al-Waqi'ah",
+    "meaning_en": "The Inevitable",
+    "revelation_place": "Makkah",
+    "revelation_order": 46,
+    "verses_count": 96
+  },
+  {
+    "surah_id": 57,
+    "name_ar": "الحديد",
+    "name_en": "Al-Hadid",
+    "meaning_en": "The Iron",
+    "revelation_place": "Madinah",
+    "revelation_order": 94,
+    "verses_count": 29
+  },
+  {
+    "surah_id": 58,
+    "name_ar": "المجادلة",
+    "name_en": "Al-Mujadila",
+    "meaning_en": "The Pleading Woman",
+    "revelation_place": "Madinah",
+    "revelation_order": 105,
+    "verses_count": 22
+  },
+  {
+    "surah_id": 59,
+    "name_ar": "الحشر",
+    "name_en": "Al-Hashr",
+    "meaning_en": "The Exile",
+    "revelation_place": "Madinah",
+    "revelation_order": 101,
+    "verses_count": 24
+  },
+  {
+    "surah_id": 60,
+    "name_ar": "الممتحنة",
+    "name_en": "Al-Mumtahanah",
+    "meaning_en": "She that is to be examined",
+    "revelation_place": "Madinah",
+    "revelation_order": 91,
+    "verses_count": 13
+  },
+  {
+    "surah_id": 61,
+    "name_ar": "الصف",
+    "name_en": "As-Saf",
+    "meaning_en": "The Ranks",
+    "revelation_place": "Madinah",
+    "revelation_order": 109,
+    "verses_count": 14
+  },
+  {
+    "surah_id": 62,
+    "name_ar": "الجمعة",
+    "name_en": "Al-Jumu'ah",
+    "meaning_en": "The Congregation, Friday",
+    "revelation_place": "Madinah",
+    "revelation_order": 110,
+    "verses_count": 11
+  },
+  {
+    "surah_id": 63,
+    "name_ar": "المنافقون",
+    "name_en": "Al-Munafiqun",
+    "meaning_en": "The Hypocrites",
+    "revelation_place": "Madinah",
+    "revelation_order": 104,
+    "verses_count": 11
+  },
+  {
+    "surah_id": 64,
+    "name_ar": "التغابن",
+    "name_en": "At-Taghabun",
+    "meaning_en": "The Mutual Disillusion",
+    "revelation_place": "Madinah",
+    "revelation_order": 108,
+    "verses_count": 18
+  },
+  {
+    "surah_id": 65,
+    "name_ar": "الطلاق",
+    "name_en": "At-Talaq",
+    "meaning_en": "The Divorce",
+    "revelation_place": "Madinah",
+    "revelation_order": 99,
+    "verses_count": 12
+  },
+  {
+    "surah_id": 66,
+    "name_ar": "التحريم",
+    "name_en": "At-Tahrim",
+    "meaning_en": "The Prohibition",
+    "revelation_place": "Madinah",
+    "revelation_order": 107,
+    "verses_count": 12
+  },
+  {
+    "surah_id": 67,
+    "name_ar": "الملك",
+    "name_en": "Al-Mulk",
+    "meaning_en": "The Sovereignty",
+    "revelation_place": "Makkah",
+    "revelation_order": 77,
+    "verses_count": 30
+  },
+  {
+    "surah_id": 68,
+    "name_ar": "القلم",
+    "name_en": "Al-Qalam",
+    "meaning_en": "The Pen",
+    "revelation_place": "Makkah",
+    "revelation_order": 2,
+    "verses_count": 52
+  },
+  {
+    "surah_id": 69,
+    "name_ar": "الحاقة",
+    "name_en": "Al-Haqqah",
+    "meaning_en": "The Reality",
+    "revelation_place": "Makkah",
+    "revelation_order": 78,
+    "verses_count": 52
+  },
+  {
+    "surah_id": 70,
+    "name_ar": "المعارج",
+    "name_en": "Al-Ma'arij",
+    "meaning_en": "The Ascending Stairways",
+    "revelation_place": "Makkah",
+    "revelation_order": 79,
+    "verses_count": 44
+  },
+  {
+    "surah_id": 71,
+    "name_ar": "نوح",
+    "name_en": "Nuh",
+    "meaning_en": "Noah",
+    "revelation_place": "Makkah",
+    "revelation_order": 71,
+    "verses_count": 28
+  },
+  {
+    "surah_id": 72,
+    "name_ar": "الجن",
+    "name_en": "Al-Jinn",
+    "meaning_en": "The Jinn",
+    "revelation_place": "Makkah",
+    "revelation_order": 40,
+    "verses_count": 28
+  },
+  {
+    "surah_id": 73,
+    "name_ar": "المزمل",
+    "name_en": "Al-Muzzammil",
+    "meaning_en": "The Enshrouded One",
+    "revelation_place": "Makkah",
+    "revelation_order": 3,
+    "verses_count": 20
+  },
+  {
+    "surah_id": 74,
+    "name_ar": "المدثر",
+    "name_en": "Al-Muddaththir",
+    "meaning_en": "The Cloaked One",
+    "revelation_place": "Makkah",
+    "revelation_order": 4,
+    "verses_count": 56
+  },
+  {
+    "surah_id": 75,
+    "name_ar": "القيامة",
+    "name_en": "Al-Qiyamah",
+    "meaning_en": "The Resurrection",
+    "revelation_place": "Makkah",
+    "revelation_order": 31,
+    "verses_count": 40
+  },
+  {
+    "surah_id": 76,
+    "name_ar": "الانسان",
+    "name_en": "Al-Insan",
+    "meaning_en": "The Man",
+    "revelation_place": "Madinah",
+    "revelation_order": 98,
+    "verses_count": 31
+  },
+  {
+    "surah_id": 77,
+    "name_ar": "المرسلات",
+    "name_en": "Al-Mursalat",
+    "meaning_en": "The Emissaries",
+    "revelation_place": "Makkah",
+    "revelation_order": 33,
+    "verses_count": 50
+  },
+  {
+    "surah_id": 78,
+    "name_ar": "النبإ",
+    "name_en": "An-Naba",
+    "meaning_en": "The Tidings",
+    "revelation_place": "Makkah",
+    "revelation_order": 80,
+    "verses_count": 40
+  },
+  {
+    "surah_id": 79,
+    "name_ar": "النازعات",
+    "name_en": "An-Nazi'at",
+    "meaning_en": "Those who drag forth",
+    "revelation_place": "Makkah",
+    "revelation_order": 81,
+    "verses_count": 46
+  },
+  {
+    "surah_id": 80,
+    "name_ar": "عبس",
+    "name_en": "'Abasa",
+    "meaning_en": "He Frowned",
+    "revelation_place": "Makkah",
+    "revelation_order": 24,
+    "verses_count": 42
+  },
+  {
+    "surah_id": 81,
+    "name_ar": "التكوير",
+    "name_en": "At-Takwir",
+    "meaning_en": "The Overthrowing",
+    "revelation_place": "Makkah",
+    "revelation_order": 7,
+    "verses_count": 29
+  },
+  {
+    "surah_id": 82,
+    "name_ar": "الإنفطار",
+    "name_en": "Al-Infitar",
+    "meaning_en": "The Cleaving",
+    "revelation_place": "Makkah",
+    "revelation_order": 82,
+    "verses_count": 19
+  },
+  {
+    "surah_id": 83,
+    "name_ar": "المطففين",
+    "name_en": "Al-Mutaffifin",
+    "meaning_en": "The Defrauding",
+    "revelation_place": "Makkah",
+    "revelation_order": 86,
+    "verses_count": 36
+  },
+  {
+    "surah_id": 84,
+    "name_ar": "الإنشقاق",
+    "name_en": "Al-Inshiqaq",
+    "meaning_en": "The Sundering",
+    "revelation_place": "Makkah",
+    "revelation_order": 83,
+    "verses_count": 25
+  },
+  {
+    "surah_id": 85,
+    "name_ar": "البروج",
+    "name_en": "Al-Buruj",
+    "meaning_en": "The Mansions of the Stars",
+    "revelation_place": "Makkah",
+    "revelation_order": 27,
+    "verses_count": 22
+  },
+  {
+    "surah_id": 86,
+    "name_ar": "الطارق",
+    "name_en": "At-Tariq",
+    "meaning_en": "The Nightcommer",
+    "revelation_place": "Makkah",
+    "revelation_order": 36,
+    "verses_count": 17
+  },
+  {
+    "surah_id": 87,
+    "name_ar": "الأعلى",
+    "name_en": "Al-A'la",
+    "meaning_en": "The Most High",
+    "revelation_place": "Makkah",
+    "revelation_order": 8,
+    "verses_count": 19
+  },
+  {
+    "surah_id": 88,
+    "name_ar": "الغاشية",
+    "name_en": "Al-Ghashiyah",
+    "meaning_en": "The Overwhelming",
+    "revelation_place": "Makkah",
+    "revelation_order": 68,
+    "verses_count": 26
+  },
+  {
+    "surah_id": 89,
+    "name_ar": "الفجر",
+    "name_en": "Al-Fajr",
+    "meaning_en": "The Dawn",
+    "revelation_place": "Makkah",
+    "revelation_order": 10,
+    "verses_count": 30
+  },
+  {
+    "surah_id": 90,
+    "name_ar": "البلد",
+    "name_en": "Al-Balad",
+    "meaning_en": "The City",
+    "revelation_place": "Makkah",
+    "revelation_order": 35,
+    "verses_count": 20
+  },
+  {
+    "surah_id": 91,
+    "name_ar": "الشمس",
+    "name_en": "Ash-Shams",
+    "meaning_en": "The Sun",
+    "revelation_place": "Makkah",
+    "revelation_order": 26,
+    "verses_count": 15
+  },
+  {
+    "surah_id": 92,
+    "name_ar": "الليل",
+    "name_en": "Al-Layl",
+    "meaning_en": "The Night",
+    "revelation_place": "Makkah",
+    "revelation_order": 9,
+    "verses_count": 21
+  },
+  {
+    "surah_id": 93,
+    "name_ar": "الضحى",
+    "name_en": "Ad-Duhaa",
+    "meaning_en": "The Morning Hours",
+    "revelation_place": "Makkah",
+    "revelation_order": 11,
+    "verses_count": 11
+  },
+  {
+    "surah_id": 94,
+    "name_ar": "الشرح",
+    "name_en": "Ash-Sharh",
+    "meaning_en": "The Relief",
+    "revelation_place": "Makkah",
+    "revelation_order": 12,
+    "verses_count": 8
+  },
+  {
+    "surah_id": 95,
+    "name_ar": "التين",
+    "name_en": "At-Tin",
+    "meaning_en": "The Fig",
+    "revelation_place": "Makkah",
+    "revelation_order": 28,
+    "verses_count": 8
+  },
+  {
+    "surah_id": 96,
+    "name_ar": "العلق",
+    "name_en": "Al-'Alaq",
+    "meaning_en": "The Clot",
+    "revelation_place": "Makkah",
+    "revelation_order": 1,
+    "verses_count": 19
+  },
+  {
+    "surah_id": 97,
+    "name_ar": "القدر",
+    "name_en": "Al-Qadr",
+    "meaning_en": "The Power",
+    "revelation_place": "Makkah",
+    "revelation_order": 25,
+    "verses_count": 5
+  },
+  {
+    "surah_id": 98,
+    "name_ar": "البينة",
+    "name_en": "Al-Bayyinah",
+    "meaning_en": "The Clear Proof",
+    "revelation_place": "Madinah",
+    "revelation_order": 100,
+    "verses_count": 8
+  },
+  {
+    "surah_id": 99,
+    "name_ar": "الزلزلة",
+    "name_en": "Az-Zalzalah",
+    "meaning_en": "The Earthquake",
+    "revelation_place": "Madinah",
+    "revelation_order": 93,
+    "verses_count": 8
+  },
+  {
+    "surah_id": 100,
+    "name_ar": "العاديات",
+    "name_en": "Al-'Adiyat",
+    "meaning_en": "The Courser",
+    "revelation_place": "Makkah",
+    "revelation_order": 14,
+    "verses_count": 11
+  },
+  {
+    "surah_id": 101,
+    "name_ar": "القارعة",
+    "name_en": "Al-Qari'ah",
+    "meaning_en": "The Calamity",
+    "revelation_place": "Makkah",
+    "revelation_order": 30,
+    "verses_count": 11
+  },
+  {
+    "surah_id": 102,
+    "name_ar": "التكاثر",
+    "name_en": "At-Takathur",
+    "meaning_en": "The Rivalry in world increase",
+    "revelation_place": "Makkah",
+    "revelation_order": 16,
+    "verses_count": 8
+  },
+  {
+    "surah_id": 103,
+    "name_ar": "العصر",
+    "name_en": "Al-'Asr",
+    "meaning_en": "The Declining Day",
+    "revelation_place": "Makkah",
+    "revelation_order": 13,
+    "verses_count": 3
+  },
+  {
+    "surah_id": 104,
+    "name_ar": "الهمزة",
+    "name_en": "Al-Humazah",
+    "meaning_en": "The Traducer",
+    "revelation_place": "Makkah",
+    "revelation_order": 32,
+    "verses_count": 9
+  },
+  {
+    "surah_id": 105,
+    "name_ar": "الفيل",
+    "name_en": "Al-Fil",
+    "meaning_en": "The Elephant",
+    "revelation_place": "Makkah",
+    "revelation_order": 19,
+    "verses_count": 5
+  },
+  {
+    "surah_id": 106,
+    "name_ar": "قريش",
+    "name_en": "Quraysh",
+    "meaning_en": "Quraysh",
+    "revelation_place": "Makkah",
+    "revelation_order": 29,
+    "verses_count": 4
+  },
+  {
+    "surah_id": 107,
+    "name_ar": "الماعون",
+    "name_en": "Al-Ma'un",
+    "meaning_en": "The Small kindnesses",
+    "revelation_place": "Makkah",
+    "revelation_order": 17,
+    "verses_count": 7
+  },
+  {
+    "surah_id": 108,
+    "name_ar": "الكوثر",
+    "name_en": "Al-Kawthar",
+    "meaning_en": "The Abundance",
+    "revelation_place": "Makkah",
+    "revelation_order": 15,
+    "verses_count": 3
+  },
+  {
+    "surah_id": 109,
+    "name_ar": "الكافرون",
+    "name_en": "Al-Kafirun",
+    "meaning_en": "The Disbelievers",
+    "revelation_place": "Makkah",
+    "revelation_order": 18,
+    "verses_count": 6
+  },
+  {
+    "surah_id": 110,
+    "name_ar": "النصر",
+    "name_en": "An-Nasr",
+    "meaning_en": "The Divine Support",
+    "revelation_place": "Madinah",
+    "revelation_order": 114,
+    "verses_count": 3
+  },
+  {
+    "surah_id": 111,
+    "name_ar": "المسد",
+    "name_en": "Al-Masad",
+    "meaning_en": "The Palm Fiber",
+    "revelation_place": "Makkah",
+    "revelation_order": 6,
+    "verses_count": 5
+  },
+  {
+    "surah_id": 112,
+    "name_ar": "الإخلاص",
+    "name_en": "Al-Ikhlas",
+    "meaning_en": "The Sincerity",
+    "revelation_place": "Makkah",
+    "revelation_order": 22,
+    "verses_count": 4
+  },
+  {
+    "surah_id": 113,
+    "name_ar": "الفلق",
+    "name_en": "Al-Falaq",
+    "meaning_en": "The Daybreak",
+    "revelation_place": "Makkah",
+    "revelation_order": 20,
+    "verses_count": 5
+  },
+  {
+    "surah_id": 114,
+    "name_ar": "الناس",
+    "name_en": "An-Nas",
+    "meaning_en": "Mankind",
+    "revelation_place": "Makkah",
+    "revelation_order": 21,
+    "verses_count": 6
+  }
+]
