@@ -27,7 +27,6 @@ def main():
         "CHECKSUM_TAFASIR": calculate_directory_checksum('./tafasir/'),
         "CHECKSUM_TRANSLATIONS": calculate_directory_checksum('./translations/'),
         "CHECKSUM_VERSES": calculate_directory_checksum('./verses/'),
-        "CHECKSUM_RECITATIONS": calculate_directory_checksum('./recitations/'),
     }
 
     with open('checksums.json', 'w') as f:
